@@ -1,0 +1,77 @@
+header {
+    overflow: hidden; // Collapsing margins
+}
+
+.logo {
+    background-color: $blue;
+    margin-top: 65px;
+    height: 50px;
+    position: relative;
+
+    span { display: none; } // Hide real text
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: -54px;
+        left: 0px;
+        display: block;
+        width: 494px;
+        height: 85px;
+        background: transparent url('/images/logo.png') no-repeat left top;
+
+    }
+}
+
+
+.hero {
+    @extend %clearfix;
+    color: #fff;
+
+    > div {
+        margin-top: $gutter;
+        height: 150px;
+        border-radius: 5px;
+        text-align: center;
+        padding: 20px 40px;
+    }
+
+    > div:first-child {
+        float: left;
+        width: 40%;
+        font-size: 1.5em;
+        background-color: $blue;
+        margin-right: $gutter;
+    }
+
+    > div:last-child {
+        overflow: hidden;
+        background-color: #00f;
+        font-size: 1.6em;
+        line-height: 30px;
+        padding-left: 60px;
+        padding-right: 60px;
+
+        a {
+            color: #fff;
+            text-decoration: underline;
+        }
+        .phone-words, .phone { display: block; }
+        .phone { font-size: 0.6em; }
+
+    }
+}
+
+.primary-nav {
+    background-color: #7994CB;
+    border-radius: 5px;
+    margin-top: $gutter;
+
+    a {
+        display: inline-block;
+        padding: 5px 10px;
+        font-size: 0.8em;
+        color: #fff;
+    }
+
+}

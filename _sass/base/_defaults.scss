@@ -1,0 +1,80 @@
+// ****************************************
+//   Inherited Syles
+// ****************************************
+
+// See this explanation for details
+// https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+
+html {
+    box-sizing: border-box;
+    color: $default-text-color;
+    font: $default-font-size $default-font-family;
+    font-weight: $default-font-weight;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    color: inherit;
+    font: inherit
+}
+
+
+// ****************************************
+//   Body
+// ****************************************
+
+body {
+    background: radial-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('/images/bg.jpg');
+    background-size: cover, cover;
+    background-attachment: fixed, fixed;
+}
+
+
+// ****************************************
+//   Common tags 
+// ****************************************
+
+a {
+    color: $default-anchor-color;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-weight: 700;
+    color: #222;
+}
+
+strong {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+em {
+    font-style: italic;
+}
+
+
+// ****************************************
+//   Buttons 
+// ****************************************
+
+// a.button {
+//     display: inline-block;
+//     border: none; // reset
+//     border-bottom: 2px solid #1E9255;
+//     border-radius: 5px;
+//     padding: 18px 90px;
+//     color: #fff;
+//     font-size: 0.7em;
+//     //background-color: $green;
+//     text-transform: uppercase;
+//     letter-spacing: 2px;
+// }
+
+// button {
+//     @extend a.button;
+// }

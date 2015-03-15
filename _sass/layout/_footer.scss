@@ -1,0 +1,16 @@
+.primary-footer {
+    text-align: center;
+    font-size: 0.8em;
+
+    > div {
+        background-color: #7994CB;
+        border-radius: 5px;
+        color: #fff;
+        margin-top: $gutter;
+        margin-bottom: $gutter;
+        padding: 5px;
+        a {
+            color: inherit;
+        }
+    }
+}
