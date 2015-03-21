@@ -13,22 +13,22 @@ seo: Alaska Lemon Law
 
 **Alaska Lemon law AS 45.45.310. Notice By Owner.**
 
->In order to claim a refund or replacement under AS 45.45.305, the owner shall give written notice by certified mail to the manufacturer and its dealer or repairing agent at any time before 60 days have elapsed after the expiration of the express warranty or the one-year period after the date of delivery of the motor vehicle to the original owner, whichever period terminates first,
-  1. stating that the vehicle has a nonconformity; 
-  2. providing a reasonable description of the nonconformity; 
-  3. stating that the manufacturer, distributor, dealer, or repairing agent has made a reasonable number of attempts to conform the vehicle; and 
+>In order to claim a refund or replacement under AS 45.45.305, the owner shall give written notice by certified mail to the manufacturer and its dealer or repairing agent at any time before 60 days have elapsed after the expiration of the express warranty or the one-year period after the date of delivery of the motor vehicle to the original owner, whichever period terminates first, <br>
+  1. stating that the vehicle has a nonconformity; <br>
+  2. providing a reasonable description of the nonconformity; <br>
+  3. stating that the manufacturer, distributor, dealer, or repairing agent has made a reasonable number of attempts to conform the vehicle; and <br>
   4. stating that the owner demands a refund or replacement vehicle to be delivered on the 60th day after the mailing of the written notice. Within 30 days after receiving the notice required by this section the manufacturer may make a final attempt to conform the vehicle before a refund or replacement is made under AS 45.45.305.
 
 **Alaska Lemon law AS 45.45.315. Exceptions.**
 
->An owner may not receive a refund or replacement under AS 45.45.300 - 45.45.360 if the manufacturer or distributor shows that the nonconformity complained of
-  1. does not substantially impair either the use or the market value of the motor vehicle; or 
+>An owner may not receive a refund or replacement under AS 45.45.300 - 45.45.360 if the manufacturer or distributor shows that the nonconformity complained of <br>
+  1. does not substantially impair either the use or the market value of the motor vehicle; or <br>
   2. is the result of alteration of the motor vehicle by the owner or a person other than a dealer or repairing agent that is not authorized by the manufacturer or distributor; or abuse or neglect by the owner or a person other than the dealer or repairing agent.
 
 **Alaska Lemon law AS 45.45.320. Presumption.**
 
->A presumption that a reasonable number of attempts have been made to conform a motor vehicle under an applicable express warranty is established if:
-  1. the same nonconformity has been subject to repair three or more times by the manufacturer, distributor, dealer, or repairing agent during the term of the express warranty or the one-year period after delivery of the motor vehicle to the original owner, whichever period terminates first, but the nonconformity continues to exist; or 
+>A presumption that a reasonable number of attempts have been made to conform a motor vehicle under an applicable express warranty is established if: <br>
+  1. the same nonconformity has been subject to repair three or more times by the manufacturer, distributor, dealer, or repairing agent during the term of the express warranty or the one-year period after delivery of the motor vehicle to the original owner, whichever period terminates first, but the nonconformity continues to exist; or <br>
   2. the vehicle is out of service for repair for a total of 30 or more business days during the express warranty term or the one-year period referred to in (1) of this section, whichever period terminates first; any period of time that repairs are not performed for reasons that are beyond the control of the manufacturer, distributor, dealer, or repairing agent is excluded from the 30-day time period referred to in this paragraph.
 
 **Alaska Lemon law AS 45.45.325. Parts Availability.**
@@ -57,7 +57,7 @@ seo: Alaska Lemon Law
 
 **Alaska Lemon law AS 45.45.360. Definitions.**
 
->Definitions in AS 45.45.300 - 45.45.360:
+>Definitions in AS 45.45.300 - 45.45.360: <br>
   1. "**dealer**" means a person who has obtained a franchise from, or is authorized by, a motor vehicle manufacturer to engage in the retail sale and warranty repair of the manufacturer's new motor vehicles in the state; <br>
   2. "**distributor**" means a person who is authorized by a manufacturer to engage in the wholesale distribution of the manufacturer's new motor vehicles in the state; <br>
   3. "**express warranty**" or "warranty" means an express written warranty provided by the manufacturer of a new motor vehicle; <br>
