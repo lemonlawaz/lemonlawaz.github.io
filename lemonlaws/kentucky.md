@@ -79,7 +79,7 @@ Noncompliance with the provisions of KRS 367.842 to 367.844 by a manufacturer sh
 
 KRS 367.840 to 367.845 shall apply to new motor vehicles purchased after July 15, 1986, and to motor vehicles leased after July 15, 1998.
 
-**Informal Dispute Resolution System **
+**Informal Dispute Resolution System**
 
 **Kentucky Lemon law 367.860** DEFINITIONS FOR KRS 367.865
 
@@ -105,7 +105,7 @@ As used in KRS 367.865 unless the context requires otherwise:
 
 2) The decision of the system shall be legally binding on the manufacturer. The decision of the system shall not be legally binding on the buyer, unless the manufacturer elects to have its system binding on all buyers who summit their disputes to the system. If the system is to be binding to both parties, the written agreement between the buyer and the manufacturer whereby the dispute is submitted to the system shall include in conspicuous, bold-faced type the following statement: "YOU SHOULD REMEMBER THAT BY ENTERING INTO THIS AGREEMENT YOU ARE DECIDING TO USE THIS DISPUTE RESOLUTION SYSTEM TO SETTLE YOUR DISPUTE INSTEAD OF GOING TO COURT. AFTER A DECISION BY AN ARBITRATOR, NORMALLY A COURT WILL REFUSE TO HEAR THE FACTS IN A CASE IN ALL BUT THE MOST UNUSUAL SITUATIONS. YOUR SIGNATURE IS REQUIRED IMMEDIATELY BELOW TO INDICATE THAT YOU HAVE READ THIS DISCLOSURE. 
 
-______________________________"
+_____________________________________________________________________"
 SIGNATURE OF BUYER 
 
 3) Before a dispute may be submitted to a system which is legally binding on both parties, the buyer shall sign the disclosure statement required by subsection (2) of this section. 
