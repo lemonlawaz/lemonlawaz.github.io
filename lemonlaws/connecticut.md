@@ -130,22 +130,22 @@ Cited. 203 C. 63, 65, 66, 70, 7380. Cited. 209 C. 579581, 583, 585, 586, 589, 59
   
 >c. Any manufacturer operating or participating in an informal dispute settlement procedure for resolving disputes with consumers in this state shall be required to maintain records which indicate the number of:
 
-  1. Vehicles sold in this state during the reporting period;
-  2. telephone and written requests from consumers to enter the dispute resolution program; 
-  3. requests rejected as ineligible for the program;
-  4. requests accepted for resolution by the program; 
-  5. cases in which a decision was reached and the manufacturer has complied with the decision within the time period for compliance established by the decision;
-  6. cases in which a decision was reached and the manufacturer's compliance occurred after the expiration of the time period for compliance established by the decision;
-  7. cases in which a decision was reached, the time period for compliance has expired and the manufacturer has not complied with such decision;
-  8. cases in which a decision was reached and the time period for compliance has not yet expired;
-  9. cases in which a decision awarded no relief to the consumer;
-  10. cases in which a decision awarded the consumer further repair or extended warranty;
-  11. cases in which a decision required the manufacturer to accept the return of the vehicle and a refund was issued to the consumer;
-  12. cases in which a decision required the manufacturer to accept the return of the vehicle and a replacement vehicle was provided to the consumer;
-  13. cases in which a decision is pending; 
-  14. cases in which the consumer accepted the decision;
-  15. cases in which the consumer rejected the decision;
-  16. cases resolved by predecision settlement.
+  >1. Vehicles sold in this state during the reporting period;
+  >2. telephone and written requests from consumers to enter the dispute resolution program; 
+  >3. requests rejected as ineligible for the program;
+  >4. requests accepted for resolution by the program; 
+  >5. cases in which a decision was reached and the manufacturer has complied with the decision within the time period for compliance established by the decision;
+  >6. cases in which a decision was reached and the manufacturer's compliance occurred after the expiration of the time period for compliance established by the decision;
+  >7. cases in which a decision was reached, the time period for compliance has expired and the manufacturer has not complied with such decision;
+  >8. cases in which a decision was reached and the time period for compliance has not yet expired;
+  >9. cases in which a decision awarded no relief to the consumer;
+  >10. cases in which a decision awarded the consumer further repair or extended warranty;
+  >11. cases in which a decision required the manufacturer to accept the return of the vehicle and a refund was issued to the consumer;
+  >12. cases in which a decision required the manufacturer to accept the return of the vehicle and a replacement vehicle was provided to the consumer;
+  >13. cases in which a decision is pending; 
+  >14. cases in which the consumer accepted the decision;
+  >15. cases in which the consumer rejected the decision;
+  >16. cases resolved by predecision settlement.
 
 (P.A. 84-338, S. 2, 8; P.A. 85-331, S. 3, 6; P.A. 87-522, S. 5, 6; P.A. 88-230, S. 1, 12; 88-317, S. 94, 107; P.A. 90-98, S. 1, 2; P.A. 93-142, S. 4, 7, 8; P.A. 95-220, S. 46.) *Note: On and after September 1, 1998, the phrase "judicial district of Hartford" shall be substituted for "judicial district of Hartford-New Britain". 
 
