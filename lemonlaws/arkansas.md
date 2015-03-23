@@ -55,7 +55,8 @@ As used in this subchapter, unless the context otherwise requires:
   
   >A. Begins:
 
-  >   (i) On the date of original delivery of a motor vehicle; or  <br>
+  >   (i) On the date of original delivery of a motor vehicle; or  
+  
   >   (ii)In the case of a replacement vehicle provided by a manufacturer to a consumer under this subchapter, on the date of delivery of the replacement vehicle to the consumer; and
   
   >B. Ends twenty-four (24) months after the date of the original delivery of the motor vehicle to a consumer, or the first twenty-four thousand (24,000) miles of operation attributable to the consumer, whichever is later; <br>
@@ -71,15 +72,18 @@ As used in this subchapter, unless the context otherwise requires:
 **Arkansas Lemon Law 4-90-404.** Notice by consumer - Disclosure by manufacturer, agent, or dealer.
 
 (a) <br>
+
   >1. A consumer must notify the manufacturer of a claim under this subchapter if the manufacturer has made the disclosure required by subsection (b) of this section. <br>
   >2. However, if the manufacturer has not made the required disclosure, the consumer is not required to notify the manufacturer of a claim under this subchapter.
 
 (b) <br>
+
   >1. At the time of the consumer's purchase or lease of the vehicle, the manufacturer, its agent, or an authorized dealer shall provide to the consumer a written statement that explains the consumer's rights and obligations under this subchapter. <br>
   >2. The written statement shall be prepared by the Consumer Protection Division of the Office of the Attorney General and shall include the telephone number of the Consumer Protection Division that the consumer can contact to obtain information regarding his or her rights and obligations under this subchapter. <br>
   >3. For each failure of the manufacturer, its agent, or an authorized dealer to provide to a consumer the written statement required under this section, the manufacturer shall be liable to the State of Arkansas for a civil penalty of not less than twenty-five dollars ($25.00) nor more than one thousand dollars ($1,000).
 
 (c) <br>
+
   >1. The manufacturer shall clearly and conspicuously disclose to the consumer, in the warranty or owner's manual, that written notice of the nonconformity is required before the buyer may be eligible for a refund or replacement of the vehicle. <br>
   >2. The manufacturer shall provide the consumer with conspicuous notice of the address and phone number for its zone, district, or regional office for this state at the time of vehicle acquisition, to which the buyer must send notification.
 
