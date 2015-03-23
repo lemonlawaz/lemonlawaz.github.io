@@ -40,9 +40,9 @@ C. It shall be presumed that reasonable attempts to correct a nonconforming cond
 
 >(b) It shall be an affirmative defense to any claim against the manufacturer under this chapter that: 
 
-  >(i) an alleged nonconforming condition does not significantly impair the use, market value, or safety of the motor vehicle; or 
+   >(i) an alleged nonconforming condition does not significantly impair the use, market value, or safety of the motor vehicle; or 
   
-  >(ii) a nonconforming condition is a result of abuse, neglect, or any modification or alteration of a motor vehicle by a consumer that is not authorized by the manufacturer.
+   >(ii) a nonconforming condition is a result of abuse, neglect, or any modification or alteration of a motor vehicle by a consumer that is not authorized by the manufacturer.
  
 >(c) If it is determined that the manufacturer has breached its obligations imposed under this chapter, then the consumer shall be entitled to recover, in addition to the remedy provided under Section 8-20A-2 above, an additional award for reasonable attorneys fees.
 
