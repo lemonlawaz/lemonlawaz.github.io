@@ -15,7 +15,8 @@ For purposes of this chapter, the following terms have the following meanings:
 4. "**Lease**" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four (4) months, used for personal business use, personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease.
 5. "**Manufacturer**" means a person engaged in the business of manufacturing, assembling or distributing motor vehicles, who will, under normal business conditions during the year, manufacture, assemble or distribute to dealers at least ten (10) new motor vehicles.
 6. "**Manufacturer's express warranty**" and "**warranty**" mean the written warranty of the manufacturer of a new motor vehicle of its condition and fitness for use, including any terms or conditions precedent to the enforcement of obligations under that warranty.
-7. "**Motor vehicle**" means a motor vehicle as defined in chapter 1, title 49, Idaho Code, which is sold or licensed in this state but does not include
+7. "**Motor vehicle**" means a motor vehicle as defined in chapter 1, title 49, Idaho Code, which is sold or licensed in this state but does not include 
+
 >a. Motorcycle or farm tractor as defined in sections 49-107 and 49-114, Idaho Code; or  <br>
 >b. Trailer as defined in section 49-121, Idaho Code; or  <br>
 >c. Any motor vehicle with a gross laden weight over twelve thousand (12,000) pounds.
