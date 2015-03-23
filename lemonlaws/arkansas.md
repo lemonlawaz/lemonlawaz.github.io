@@ -41,15 +41,16 @@ As used in this subchapter, unless the context otherwise requires:
 
   >F. An amount equal to five percent (5%) of the lessor's actual purchase price;
 
-  7. "**Lessee**" means any consumer who leases a motor vehicle for one (1) year or more pursuant to a written lease agreement which provides that the lessee is responsible for repairs to such motor vehicle;
-  8. "**Lessee cost**" means the aggregate deposit and rental payments previously paid to the lessor for the leased vehicle; 
-  9. "**Lessor**" means a person who holds title to a motor vehicle leased to a lessee under the written lease agreement or who holds the lessor's rights under such agreement; 
-  10. "Manufacturer" means: 
+  (7.) "**Lessee**" means any consumer who leases a motor vehicle for one (1) year or more pursuant to a written lease agreement which provides that the lessee is responsible for repairs to such motor vehicle; <br>
+  (8.) "**Lessee cost**" means the aggregate deposit and rental payments previously paid to the lessor for the leased vehicle; <br>
+  (9.) "**Lessor**" means a person who holds title to a motor vehicle leased to a lessee under the written lease agreement or who holds the lessor's rights under such agreement;  <br>
+  (10.) "Manufacturer" means: 
   
-    A. Any person who is engaged in the business of constructing or assembling new motor vehicles or installing, on previously assembled vehicle chassis, special bodies or equipment which, when installed, form an integral part of the new motor vehicle; or <br>
+  >A. Any person who is engaged in the business of constructing or assembling new motor vehicles or installing, on previously assembled vehicle chassis, special bodies or equipment which, when installed, form an integral part of the new motor vehicle; or <br>
 
-    B. In the case of motor vehicles not manufactured in the United States, any person who is engaged in the business of importing new motor vehicles into the United States for the purpose of selling or distributing new motor vehicles to new motor vehicle dealers; <br>
-  11. "Motor vehicle" or "vehicle" means any self-propelled vehicle licensed, purchased, or leased in this state and primarily designed for the transportation of persons or property over the public streets and highways, but does not include mopeds, motorcycles, the living facilities of a motor home, or vehicles over ten thousand pounds (10,000 lbs.) gross vehicle weight rating. For purposes of this definition, the limit of ten thousand pounds (10,000 lbs.) gross vehicle weight rating does not apply to motor homes; <br>
+  >B. In the case of motor vehicles not manufactured in the United States, any person who is engaged in the business of importing new motor vehicles into the United States for the purpose of selling or distributing new motor vehicles to new motor vehicle dealers; <br>
+    
+  (11.) "Motor vehicle" or "vehicle" means any self-propelled vehicle licensed, purchased, or leased in this state and primarily designed for the transportation of persons or property over the public streets and highways, but does not include mopeds, motorcycles, the living facilities of a motor home, or vehicles over ten thousand pounds (10,000 lbs.) gross vehicle weight rating. For purposes of this definition, the limit of ten thousand pounds (10,000 lbs.) gross vehicle weight rating does not apply to motor homes; <br>
   12. "Motor vehicle quality assurance period" means a period of time that: 
   
   >A. Begins:
@@ -78,7 +79,7 @@ As used in this subchapter, unless the context otherwise requires:
   3. For each failure of the manufacturer, its agent, or an authorized dealer to provide to a consumer the written statement required under this section, the manufacturer shall be liable to the State of Arkansas for a civil penalty of not less than twenty-five dollars ($25.00) nor more than one thousand dollars ($1,000).
 
 (c)
-  1. The manufacturer shall clearly and conspicuously disclose to the consumer, in the warranty or owner's manual, that written notice of the nonconformity is required before the buyer may be eligible for a refund or replacement of the vehicle.
+  1. The manufacturer shall clearly and conspicuously disclose to the consumer, in the warranty or owner's manual, that written notice of the nonconformity is required before the buyer may be eligible for a refund or replacement of the vehicle. <br>
   2. The manufacturer shall provide the consumer with conspicuous notice of the address and phone number for its zone, district, or regional office for this state at the time of vehicle acquisition, to which the buyer must send notification.
 
 **History. Acts 1993, No. 285, ? 5; 1993, No. 297, ? 5; 1995, No. 302, ? 2.**
@@ -89,12 +90,13 @@ If a motor vehicle does not conform to the warranty and the consumer reports the
 History. Acts 1993, No. 285, ? 4; 1993, No. 297, ? 4. 
 
 **Arkansas Lemon Law 4-90-406.** Failure to make required repairs.
-(a)
+
+(a) <br>
   1. After three (3) attempts have been made to repair the same nonconformity that substantially impairs the motor vehicle, or after one (1) attempt to repair a nonconformity that is likely to cause death or serious bodily injury, the consumer shall give written notification, by certified or registered mail, to the manufacturer of the need to repair the nonconformity in order to allow the manufacturer a final attempt to cure the nonconformity. <br>
   2. The manufacturer shall, within ten (10) days after receipt of the notification, notify and provide the consumer with the opportunity to have the vehicle repaired at a reasonably accessible repair facility, and, after delivery of the vehicle to the designated repair facility by the consumer, the manufacturer shall, within ten (10) days, conform the motor vehicle to the warranty. <br>
   3. If the manufacturer fails to notify and provide the consumer with the opportunity to have the vehicle repaired at a reasonably accessible repair facility or fails to perform the repairs within the time periods prescribed in this subsection, the requirement that the manufacturer be given a final attempt to cure the nonconformity does not apply and a non rebuttable presumption of a reasonable number of attempts to repair arises.
 
-(b)
+(b) <br>
   1. <br>
   A. If the manufacturer, its agent, or authorized dealer has not conformed the motor vehicle to the warranty by repairing or correcting one (1) or more nonconformities that substantially impair the motor vehicle after a reasonable number of attempts, the manufacturer, within forty (40) days, shall: <br>
   >i. At the time of its receipt of payment of a reasonable offset for use by the consumer, replace the motor vehicle with a replacement motor vehicle acceptable to the consumer; or 
@@ -108,14 +110,15 @@ History. Acts 1993, No. 285, ? 4; 1993, No. 297, ? 4.
 **History. Acts 1993, No. 285, ? 6; 1993, No. 297, ? 6; 1995, No. 302, ? 3.**
 
 **Arkansas Lemon Law 4-90-407.** Refunds.
-(a)
-  1. Refunds shall be made to the consumer and lienholder of record, if any, as their interests may appear.
-  2. If applicable, refunds shall be made to the lessor and lessee as follows: 
-    A. The lessee shall receive the lessee cost less a reasonable offset for use; and 
 
-    B. The lessor shall receive the lease price less the aggregate deposit and rental payments previously paid to the lessor for the leased vehicle.
+(a) <br>
+  1. Refunds shall be made to the consumer and lienholder of record, if any, as their interests may appear. <br>
+  2. If applicable, refunds shall be made to the lessor and lessee as follows: <br>
+  >A. The lessee shall receive the lessee cost less a reasonable offset for use; and 
 
-(b)
+  >B. The lessor shall receive the lease price less the aggregate deposit and rental payments previously paid to the lessor for the leased vehicle.
+
+(b) 
 If the manufacturer makes a refund to the lessor or lessee pursuant to this subchapter, the consumer's lease agreement with the lessor shall be terminated upon payment of the refund and no penalty for early termination shall be assessed. 
 
 (c)
@@ -125,13 +128,13 @@ If a replaced vehicle was financed by the manufacturer, its subsidiary, or agent
 
 **Arkansas Lemon Law 4-90-408.** Reimbursement of towing and rental costs.
 
->A consumer has the option of retaining the use of any vehicle returned under this subchapter until the time that the consumer has been tendered a full refund or a replacement vehicle of comparable value. 
+A consumer has the option of retaining the use of any vehicle returned under this subchapter until the time that the consumer has been tendered a full refund or a replacement vehicle of comparable value. 
 
 **History. Acts 1993, No. 285, ? 10; 1993, No. 297, ? 10.**
 
 **Arkansas Lemon Law 4-90-409.** Option to retain use of vehicle.
 
->A consumer has the option of retaining the use of any vehicle returned under this subchapter until the time that the consumer has been tendered a full refund or a replacement vehicle of comparable value. 
+A consumer has the option of retaining the use of any vehicle returned under this subchapter until the time that the consumer has been tendered a full refund or a replacement vehicle of comparable value. 
 
 **History. Acts 1993, No. 285, ? 11; 1993, No. 297, ? 11.**
 
@@ -143,7 +146,7 @@ If a replaced vehicle was financed by the manufacturer, its subsidiary, or agent
   2. The vehicle is out of service by reason of repair, or attempt to repair, any nonconformity for a cumulative total of thirty (30) calendar days; or 
   3. There have been five (5) or more attempts, on separate occasions, to repair any nonconformities that together substantially impair the use and value of the motor vehicle to the consumer.
 
-(b)
+(b) <br>
   1. The thirty (30) calendar days in subdivision (a)(2) of this section shall be extended by any period of time during which repair services are not available as a direct result of war, invasion, strike, fire, flood, or natural disaster.
   2. The manufacturer, its agent, or authorized dealer shall provide or make provisions for the free use of a vehicle to any consumer whose vehicle is out of service beyond thirty (30) days by reason of delayed repair as a direct result of war, invasion, strike, fire, flood, or natural disaster.
 
@@ -155,7 +158,7 @@ If a replaced vehicle was financed by the manufacturer, its subsidiary, or agent
 
 (a) A manufacturer, its agent, or authorized dealer may not refuse to diagnose or repair any vehicle for the purpose of avoiding liability under this subchapter. 
 
-(b)
+(b) <br>
   1. A manufacturer, its agent, or authorized dealer shall provide a consumer with a written repair order each time the consumer's vehicle is brought in for examination or repair.
   2. The repair order must indicate all work performed on the vehicle, including examination of the vehicle, parts, and labor.
 
@@ -183,10 +186,10 @@ If a replaced vehicle was financed by the manufacturer, its subsidiary, or agent
 
 **Arkansas Lemon Law 4-90-414.** Informal proceeding as precedent.
 
-(a)
+(a) <br>
   1. Any manufacturer doing business in this state, entering into franchise agreements for the sale of its motor vehicles in this state, or offering express warranties on its motor vehicles sold or distributed for sale in this state, shall operate, or participate in, an informal dispute settlement proceeding located in the State of Arkansas which complies with the requirements of this section.
   2. The provisions of ? 4-90-406(b)(1) and (2) concerning refunds or replacement do not apply to a consumer who has not first used this informal proceeding before commencing a civil action, unless the manufacturer allows a consumer to commence an action without first using this informal procedure.
-  3. 
+  3.  <br>
   >A. The consumer shall receive adequate written notice from the manufacturer of the existence of the procedure.
 
   >B. Adequate written notice may include the incorporation of the informal dispute settlement procedure into the terms of the written warranty to which the motor vehicle does not conform.
@@ -195,21 +198,21 @@ If a replaced vehicle was financed by the manufacturer, its subsidiary, or agent
 
   1. The informal dispute procedure must comply with the minimum requirements of the Federal Trade Commission for informal dispute settlement procedures as set forth in 16 C.F.R. ? 703.1 et seq., as in effect on the date of adoption of this subchapter, unless any provision of 16 C.F.R. ? 703.1 et seq. is in conflict with this subchapter, in which case the provisions of this subchapter shall govern; 
   2. The informal dispute procedure must prescribe a reasonable time, not to exceed thirty (30) days after the decision is accepted by the buyer, within which the manufacturer or its agent must fulfill the terms of its decisions; 
-  3. 
+  3. <br>
   >A. No documents shall be received by any informal dispute procedure unless those documents have been provided to each of the parties in the dispute at or prior to the proceeding, with an opportunity for the parties to comment on the documents either in writing or orally.
   >B. If a consumer is present during the informal dispute proceeding, the consumer may request postponement of the proceeding meeting to allow sufficient time to review any documents presented at the time of the meeting which had not been presented to the consumer prior to the time of the meeting;
-  4. 
+  4. <br>
   >A. The informal dispute procedure shall allow each party to appear and make an oral presentation within the State of Arkansas unless the consumer agrees to submit the dispute for decision on the basis of documents alone or by telephone, or unless the party fails to appear for an oral presentation after reasonable prior written notice. 
   >B. If the consumer agrees to submit the dispute for decision on the basis of documents alone, then the manufacturer or dealer representatives may not participate in the discussion or decision of the dispute;
   5. Consumers shall be given an adequate opportunity to contest a manufacturer's assertion that a nonconformity falls within intended specifications for the vehicle by having the basis of the manufacturer's claim appraised by a technical expert selected and paid for by the consumer prior to the informal dispute settlement hearing; 
   6. A consumer may not be charged with a fee to participate in an informal dispute procedure; and 
   7. Any party to the dispute has the right to be represented by an attorney in an informal dispute proceeding.
 
-(c)
-  1. 
+(c) <br>
+  1.  <br>
   >A. The informal dispute procedure shall annually submit a pool of not less than six (6) members who are appointed with the advice and consent of the Consumer Protection Division of the Office of the Attorney General. 
   >B. Selected strictly by rotation, one (1) member shall hear disputes scheduled for a particular session unless the consumer requests a panel of three (3) members, in which case three (3) members shall hear disputes scheduled for a particular three-member session.
-  >C. If the informal dispute procedure deems it appropriate to require the services of an independent investigator, such investigator shall be selected from a pool of not less than four (4) members who are appointed annually with the advice and consent of the Consumer Protection Division of the Office of the Attorney General and from which the particular investigator shall be selected strictly by rotation.
+  >C. If the informal dispute procedure deems it appropriate to require the services of an independent investigator, such investigator shall be selected from a pool of not less than four (4) members who are appointed annually with the advice and consent of the Consumer Protection Division of the Office of the Attorney General and from which the particular investigator shall be selected strictly by rotation. <br>
   2. Upon notification to the administrator of any informal dispute procedure that a determination has been made by the Consumer Protection Division of the Office of the Attorney General that a member of any pool is not conforming to standards of fairness and impartiality, that member shall be immediately removed from the pool.
 
 **History. Acts 1993, No. 285, ? 16; 1993, No. 297, ? 16.**
