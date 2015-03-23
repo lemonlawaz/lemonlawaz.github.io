@@ -115,15 +115,15 @@ Cited. 203 C. 63, 65, 66, 70, 7380. Cited. 209 C. 579581, 583, 585, 586, 589, 59
   >1. Delay a decision in any dispute beyond sixty days after the date on which the consumer initially resorts to the informal dispute settlement procedure either by a telephone call or by written notification that a dispute exists;
   >2. delay performance of remedies awarded in a settlement beyond ten days after receipt of notice of the consumer's acceptance of the decision, except that a manufacturer may have thirty days following the date of such receipt to deliver a replacement of a motor vehicle acceptable to the consumer or to refund the full contract price of the vehicle together with all collateral charges, and all consequential and incidental damages as defined in said section 42-179; 
   >3. require the consumer to make the vehicle available more than once for inspection by a manufacturer's representative, and more than once for repair of the same defect by a dealer, in which cases, and upon proof of the consumer's financial responsibility in accordance with the provisions of section 14-112, the manufacturer of the defective vehicle shall provide for the loan of a reliable vehicle, not more than two years old, for use during the periods required for inspection or repair;
-  >4. fail to consider in decisions any remedies provided by sections 42-179 and 42-181, this section and sections 42-183 and 42-184, such remedies to include 
+  >4. fail to consider in decisions any remedies provided by sections 42-179 and 42-181, this section and sections 42-183 and 42-184, such remedies to include: 
   
-  >A. repair, replacement and refund,
+    >A. repair, replacement and refund,
 
-  >B. reimbursement for expenses and collateral charges,
+    >B. reimbursement for expenses and collateral charges,
 
-  >C. compensation for consequential and incidental damages as defined in said section 42-179 and
+    >C. compensation for consequential and incidental damages as defined in said section 42-179 and
   
-  >D. any other remedies available under applicable express or implied warranties;
+    >D. any other remedies available under applicable express or implied warranties;
 
   >5.) require the consumer to take any action or assume any obligation not specifically authorized under the provisions of Title 16 Code of Federal Regulations Part 703, as in effect on October 1, 1982; or
   >6.) fail to conform to all applicable standards and requirements of this chapter in the processing of consumer complaints.
