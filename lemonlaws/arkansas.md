@@ -22,12 +22,12 @@ The Arkansas General Assembly recognizes that a motor vehicle is a major consume
 
 As used in this subchapter, unless the context otherwise requires:
 
-  1. "**Calendar day**" means any day of the week other than a legal holiday; <br> 
-  2. "**Collateral charges**" means those additional charges to a consumer wholly incurred as a result of the acquisition of the motor vehicle. For the purposes of this subchapter, collateral charges include, but are not limited to, manufacturer-installed or agent-installed items, earned finance charges, sales taxes, title charges, and charges for extended warranties provided by the manufacturer, its subsidiary, or agent; <br>
-  3. "**Condition**" means a general problem that may be attributable to a defect in more than one (1) part; <br>
-  4. "**Consumer**" means the purchaser or lessee, other than for the purposes of lease or resale, of a new or previously untitled motor vehicle, or any other person entitled by the terms of the warranty to enforce the obligations of the warranty during the duration of the motor vehicle quality assurance period, provided the purchaser has titled and registered the motor vehicle as prescribed by law; <br>
-  5. "**Incidental charges**" means those reasonable costs incurred by the consumer, including, but not limited to, towing charges and the costs of obtaining alternative transportation which are directly caused by the nonconformity or nonconformities which are the subject of the claim, but shall not include loss of use, loss of income, or personal injury claims; <br>
-  6. "**Lease price**" means the aggregate of: 
+  (1.) "**Calendar day**" means any day of the week other than a legal holiday; <br> 
+  (2.) "**Collateral charges**" means those additional charges to a consumer wholly incurred as a result of the acquisition of the motor vehicle. For the purposes of this subchapter, collateral charges include, but are not limited to, manufacturer-installed or agent-installed items, earned finance charges, sales taxes, title charges, and charges for extended warranties provided by the manufacturer, its subsidiary, or agent; <br>
+  (3.) "**Condition**" means a general problem that may be attributable to a defect in more than one (1) part; <br>
+  (4.) "**Consumer**" means the purchaser or lessee, other than for the purposes of lease or resale, of a new or previously untitled motor vehicle, or any other person entitled by the terms of the warranty to enforce the obligations of the warranty during the duration of the motor vehicle quality assurance period, provided the purchaser has titled and registered the motor vehicle as prescribed by law; <br>
+  (5.) "**Incidental charges**" means those reasonable costs incurred by the consumer, including, but not limited to, towing charges and the costs of obtaining alternative transportation which are directly caused by the nonconformity or nonconformities which are the subject of the claim, but shall not include loss of use, loss of income, or personal injury claims; <br>
+  (6.) "**Lease price**" means the aggregate of: 
 
   >A. The lessor's actual purchase costs; 
 
@@ -51,7 +51,7 @@ As used in this subchapter, unless the context otherwise requires:
   >B. In the case of motor vehicles not manufactured in the United States, any person who is engaged in the business of importing new motor vehicles into the United States for the purpose of selling or distributing new motor vehicles to new motor vehicle dealers; <br>
     
   (11.) "Motor vehicle" or "vehicle" means any self-propelled vehicle licensed, purchased, or leased in this state and primarily designed for the transportation of persons or property over the public streets and highways, but does not include mopeds, motorcycles, the living facilities of a motor home, or vehicles over ten thousand pounds (10,000 lbs.) gross vehicle weight rating. For purposes of this definition, the limit of ten thousand pounds (10,000 lbs.) gross vehicle weight rating does not apply to motor homes; <br>
-  12. "Motor vehicle quality assurance period" means a period of time that: 
+  (12.) "Motor vehicle quality assurance period" means a period of time that: 
   
   >A. Begins:
 
@@ -59,26 +59,26 @@ As used in this subchapter, unless the context otherwise requires:
   >   (ii)In the case of a replacement vehicle provided by a manufacturer to a consumer under this subchapter, on the date of delivery of the replacement vehicle to the consumer; and
   
   >B. Ends twenty-four (24) months after the date of the original delivery of the motor vehicle to a consumer, or the first twenty-four thousand (24,000) miles of operation attributable to the consumer, whichever is later; <br>
-  13. "Nonconformity" means any specific or generic defect or condition or any concurrent combination of defects or conditions that:  <br>
-  14. "Person" means any natural person, partnership, firm, corporation, association, joint venture, trust, or other legal entity; <br>
-  15. "Purchase price" means the cash price paid for the motor vehicle appearing in the sales agreement or contract, including any net allowance for a trade-in vehicle; <br>
-  16. "Replacement motor vehicle" means a motor vehicle which is identical or reasonably equivalent to the motor vehicle to be replaced, as the motor vehicle replaced existed at the time of the original acquisition; and <br>
-  17. "Warranty" means any written warranty issued by the manufacturer, or any affirmation of fact or promise made by the manufacturer, excluding statements made by the dealer, in connection with the sale or lease of a motor vehicle to a consumer which relates to the nature of the material or workmanship and affirms or promises that such material or workmanship is free of defects or will meet a specified level of performance. 
+  (13.) "Nonconformity" means any specific or generic defect or condition or any concurrent combination of defects or conditions that:  <br>
+  (14.) "Person" means any natural person, partnership, firm, corporation, association, joint venture, trust, or other legal entity; <br>
+  (15.) "Purchase price" means the cash price paid for the motor vehicle appearing in the sales agreement or contract, including any net allowance for a trade-in vehicle; <br>
+  (16.) "Replacement motor vehicle" means a motor vehicle which is identical or reasonably equivalent to the motor vehicle to be replaced, as the motor vehicle replaced existed at the time of the original acquisition; and <br>
+  (17.) "Warranty" means any written warranty issued by the manufacturer, or any affirmation of fact or promise made by the manufacturer, excluding statements made by the dealer, in connection with the sale or lease of a motor vehicle to a consumer which relates to the nature of the material or workmanship and affirms or promises that such material or workmanship is free of defects or will meet a specified level of performance. 
 
 **History. Acts 1993, No. 285, ? 3; 1993, No. 297, ? 3; 1995, No. 302, ? 1.**
 
 **Arkansas Lemon Law 4-90-404.** Notice by consumer - Disclosure by manufacturer, agent, or dealer.
 
-(a)
+(a) <br>
   1. A consumer must notify the manufacturer of a claim under this subchapter if the manufacturer has made the disclosure required by subsection (b) of this section. <br>
   2. However, if the manufacturer has not made the required disclosure, the consumer is not required to notify the manufacturer of a claim under this subchapter.
 
-(b)
+(b) <br>
   1. At the time of the consumer's purchase or lease of the vehicle, the manufacturer, its agent, or an authorized dealer shall provide to the consumer a written statement that explains the consumer's rights and obligations under this subchapter. <br>
   2. The written statement shall be prepared by the Consumer Protection Division of the Office of the Attorney General and shall include the telephone number of the Consumer Protection Division that the consumer can contact to obtain information regarding his or her rights and obligations under this subchapter. <br>
   3. For each failure of the manufacturer, its agent, or an authorized dealer to provide to a consumer the written statement required under this section, the manufacturer shall be liable to the State of Arkansas for a civil penalty of not less than twenty-five dollars ($25.00) nor more than one thousand dollars ($1,000).
 
-(c)
+(c) <br>
   1. The manufacturer shall clearly and conspicuously disclose to the consumer, in the warranty or owner's manual, that written notice of the nonconformity is required before the buyer may be eligible for a refund or replacement of the vehicle. <br>
   2. The manufacturer shall provide the consumer with conspicuous notice of the address and phone number for its zone, district, or regional office for this state at the time of vehicle acquisition, to which the buyer must send notification.
 
@@ -166,7 +166,7 @@ A consumer has the option of retaining the use of any vehicle returned under thi
 
 **? Arkansas Lemon Law 4-90-412.** Resale of returned nonconforming vehicle.
 
->If a motor vehicle has been replaced or repurchased by a manufacturer as the result of a court judgment, an arbitration award, or any voluntary agreement entered into between a manufacturer and a consumer that occurs after a consumer complaint has been investigated and evaluated pursuant to this subchapter or a similar law of another state, the motor vehicle may not be resold in Arkansas unless:
+If a motor vehicle has been replaced or repurchased by a manufacturer as the result of a court judgment, an arbitration award, or any voluntary agreement entered into between a manufacturer and a consumer that occurs after a consumer complaint has been investigated and evaluated pursuant to this subchapter or a similar law of another state, the motor vehicle may not be resold in Arkansas unless:
 
   >1. The manufacturer provides the same express warranty the manufacturer provided to the original purchaser, except that the term of the warranty need only last for twelve thousand (12,000) miles or twelve (12) months after the date of resale, whichever occurs first; and 
   >2. The manufacturer provides a written disclosure, signed by the consumer, indicating that the vehicle was returned to the manufacturer because of a nonconformity not cured within a reasonable time as provided by Arkansas law.
@@ -175,7 +175,7 @@ A consumer has the option of retaining the use of any vehicle returned under thi
 
 **Arkansas Lemon Law 4-90-413.** Affirmative defenses.
 
->It is an affirmative defense to any claim under this subchapter that:
+It is an affirmative defense to any claim under this subchapter that:
 
   1. The nonconformity, defect, or condition does not substantially impair the use, value, or safety of the motor vehicle;
   2. The nonconformity, defect, or condition is the result of an accident, abuse, neglect, or unauthorized modification or alteration of the motor vehicle by persons other than the manufacturer, its agent, or authorized dealer; 
