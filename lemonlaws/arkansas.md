@@ -209,8 +209,8 @@ It is an affirmative defense to any claim under this subchapter that:
 
 (b) The informal dispute procedure must be certified by the Consumer Protection Division of the Office of the Attorney General as meeting the following criteria: 
 
-  1.) The informal dispute procedure must comply with the minimum requirements of the Federal Trade Commission for informal dispute settlement procedures as set forth in 16 C.F.R. ? 703.1 et seq., as in effect on the date of adoption of this subchapter, unless any provision of 16 C.F.R. ? 703.1 et seq. is in conflict with this subchapter, in which case the provisions of this subchapter shall govern; 
-  2.) The informal dispute procedure must prescribe a reasonable time, not to exceed thirty (30) days after the decision is accepted by the buyer, within which the manufacturer or its agent must fulfill the terms of its decisions; 
+  1.) The informal dispute procedure must comply with the minimum requirements of the Federal Trade Commission for informal dispute settlement procedures as set forth in 16 C.F.R. ? 703.1 et seq., as in effect on the date of adoption of this subchapter, unless any provision of 16 C.F.R. ? 703.1 et seq. is in conflict with this subchapter, in which case the provisions of this subchapter shall govern; <br>
+  2.) The informal dispute procedure must prescribe a reasonable time, not to exceed thirty (30) days after the decision is accepted by the buyer, within which the manufacturer or its agent must fulfill the terms of its decisions; <br>
   3.) <br>
   
   >A. No documents shall be received by any informal dispute procedure unless those documents have been provided to each of the parties in the dispute at or prior to the proceeding, with an opportunity for the parties to comment on the documents either in writing or orally. <br>
