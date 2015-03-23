@@ -40,6 +40,7 @@ Failure of vehicle to conform; remedies; presumptions.
 **Illinois Lemon Law Sec. 4.**
 
 a. The provisions of subsection (a) of Section 3 shall not apply unless the consumer has first resorted to an informal settlement procedure applicable to disputes to which that subsection would apply where 
+
 >1. The manufacturer of the new vehicle has established such a procedure; <br>
 >2. The procedure conforms: (i) substantially with the provisions of Title 16, Code of Federal Regulation, Part 703, as from time to time amended, and (ii) to the requirements of subsection (c); and  <br>
 >3. The consumer has received from the seller adequate written notice of the existence of the procedure. Adequate written notice includes but is not limited to the incorporation of the informal dispute settlement procedure into the terms of the written warranty to which the vehicle does not conform.
