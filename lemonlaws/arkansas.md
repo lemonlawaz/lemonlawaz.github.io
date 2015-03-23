@@ -26,7 +26,7 @@ As used in this subchapter, unless the context otherwise requires:
   2. "**Collateral charges**" means those additional charges to a consumer wholly incurred as a result of the acquisition of the motor vehicle. For the purposes of this subchapter, collateral charges include, but are not limited to, manufacturer-installed or agent-installed items, earned finance charges, sales taxes, title charges, and charges for extended warranties provided by the manufacturer, its subsidiary, or agent; <br>
   3. "**Condition**" means a general problem that may be attributable to a defect in more than one (1) part; <br>
   4. "**Consumer**" means the purchaser or lessee, other than for the purposes of lease or resale, of a new or previously untitled motor vehicle, or any other person entitled by the terms of the warranty to enforce the obligations of the warranty during the duration of the motor vehicle quality assurance period, provided the purchaser has titled and registered the motor vehicle as prescribed by law; <br>
-  5. "**Incidental charges**" means those reasonable costs incurred by the consumer, including, but not limited to, towing charges and the costs of obtaining alternative transportation which are directly caused by the nonconformity or nonconformities which are the subject of the claim, but shall not include loss of use, loss of income, or personal injury claims; 
+  5. "**Incidental charges**" means those reasonable costs incurred by the consumer, including, but not limited to, towing charges and the costs of obtaining alternative transportation which are directly caused by the nonconformity or nonconformities which are the subject of the claim, but shall not include loss of use, loss of income, or personal injury claims; <br>
   6. "**Lease price**" means the aggregate of: 
 
   >A. The lessor's actual purchase costs; 
@@ -41,21 +41,21 @@ As used in this subchapter, unless the context otherwise requires:
 
   >F. An amount equal to five percent (5%) of the lessor's actual purchase price;
 
-  (7) "**Lessee**" means any consumer who leases a motor vehicle for one (1) year or more pursuant to a written lease agreement which provides that the lessee is responsible for repairs to such motor vehicle;
-  (8.) "**Lessee cost**" means the aggregate deposit and rental payments previously paid to the lessor for the leased vehicle; 
-  (9.) "**Lessor**" means a person who holds title to a motor vehicle leased to a lessee under the written lease agreement or who holds the lessor's rights under such agreement; 
-  (10.) "Manufacturer" means: 
+  7. "**Lessee**" means any consumer who leases a motor vehicle for one (1) year or more pursuant to a written lease agreement which provides that the lessee is responsible for repairs to such motor vehicle;
+  8. "**Lessee cost**" means the aggregate deposit and rental payments previously paid to the lessor for the leased vehicle; 
+  9. "**Lessor**" means a person who holds title to a motor vehicle leased to a lessee under the written lease agreement or who holds the lessor's rights under such agreement; 
+  10. "Manufacturer" means: 
   
-  >A. Any person who is engaged in the business of constructing or assembling new motor vehicles or installing, on previously assembled vehicle chassis, special bodies or equipment which, when installed, form an integral part of the new motor vehicle; or <br>
+    A. Any person who is engaged in the business of constructing or assembling new motor vehicles or installing, on previously assembled vehicle chassis, special bodies or equipment which, when installed, form an integral part of the new motor vehicle; or <br>
 
-  >B. In the case of motor vehicles not manufactured in the United States, any person who is engaged in the business of importing new motor vehicles into the United States for the purpose of selling or distributing new motor vehicles to new motor vehicle dealers; <br>
+    B. In the case of motor vehicles not manufactured in the United States, any person who is engaged in the business of importing new motor vehicles into the United States for the purpose of selling or distributing new motor vehicles to new motor vehicle dealers; <br>
   11. "Motor vehicle" or "vehicle" means any self-propelled vehicle licensed, purchased, or leased in this state and primarily designed for the transportation of persons or property over the public streets and highways, but does not include mopeds, motorcycles, the living facilities of a motor home, or vehicles over ten thousand pounds (10,000 lbs.) gross vehicle weight rating. For purposes of this definition, the limit of ten thousand pounds (10,000 lbs.) gross vehicle weight rating does not apply to motor homes; <br>
   12. "Motor vehicle quality assurance period" means a period of time that: 
   
   >A. Begins:
 
-  > (i) On the date of original delivery of a motor vehicle; or  <br>
-  > (ii)In the case of a replacement vehicle provided by a manufacturer to a consumer under this subchapter, on the date of delivery of the replacement vehicle to the consumer; and
+  >   (i) On the date of original delivery of a motor vehicle; or  <br>
+  >   (ii)In the case of a replacement vehicle provided by a manufacturer to a consumer under this subchapter, on the date of delivery of the replacement vehicle to the consumer; and
   
   >B. Ends twenty-four (24) months after the date of the original delivery of the motor vehicle to a consumer, or the first twenty-four thousand (24,000) miles of operation attributable to the consumer, whichever is later; <br>
   13. "Nonconformity" means any specific or generic defect or condition or any concurrent combination of defects or conditions that:  <br>
