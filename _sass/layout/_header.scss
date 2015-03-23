@@ -3,12 +3,13 @@ header {
 }
 
 .logo {
+    display: block;
     background-color: $blue;
     margin-top: 65px;
     height: 50px;
     position: relative;
 
-    span { display: none; } // Hide real text
+    span { display: none; } // Hide real text to show logo instead
 
     &::before {
         content: '';

@@ -6,7 +6,7 @@ seo: Arizona Lemon Law
 
 <img src="/images/broke3.jpg" class="right">
 
-**Arizona Lemon Law - Arizona Motor Vehicle Warranties Act**
+# Arizona Lemon Law - Arizona Motor Vehicle Warranties Act
 
 Many people mistakenly believe that when their new cars have repairs made under warranty for “free” there is no violation of the law, even if they have to get repairs over and over again or the repairs take way too long. Arizona law says otherwise. 
 
