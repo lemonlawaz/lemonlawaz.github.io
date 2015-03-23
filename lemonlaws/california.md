@@ -7,7 +7,7 @@ seo: California Lemon Law
 
 **SECTION 1790-1790.4**
 
-1790. This chapter may be cited as the "Song-Beverly Consumer Warranty Act."
+1790.This chapter may be cited as the "Song-Beverly Consumer Warranty Act."
 
 1790.1. Any waiver by the buyer of consumer goods of the provisions of this chapter, except as expressly provided in this chapter, shall be deemed contrary to public policy and shall be unenforceable and void.
 
