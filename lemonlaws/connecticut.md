@@ -117,23 +117,23 @@ Cited. 203 C. 63, 65, 66, 70, 7380. Cited. 209 C. 579581, 583, 585, 586, 589, 59
   >3. require the consumer to make the vehicle available more than once for inspection by a manufacturer's representative, and more than once for repair of the same defect by a dealer, in which cases, and upon proof of the consumer's financial responsibility in accordance with the provisions of section 14-112, the manufacturer of the defective vehicle shall provide for the loan of a reliable vehicle, not more than two years old, for use during the periods required for inspection or repair;
   >4. fail to consider in decisions any remedies provided by sections 42-179 and 42-181, this section and sections 42-183 and 42-184, such remedies to include: 
   
-    >A. repair, replacement and refund,
+  >A. repair, replacement and refund,
 
-    >B. reimbursement for expenses and collateral charges,
+  >B. reimbursement for expenses and collateral charges,
 
-    >C. compensation for consequential and incidental damages as defined in said section 42-179 and
+  >C. compensation for consequential and incidental damages as defined in said section 42-179 and
   
-    >D. any other remedies available under applicable express or implied warranties;
+  >D. any other remedies available under applicable express or implied warranties;
 
   >5.) require the consumer to take any action or assume any obligation not specifically authorized under the provisions of Title 16 Code of Federal Regulations Part 703, as in effect on October 1, 1982; or
   >6.) fail to conform to all applicable standards and requirements of this chapter in the processing of consumer complaints.
   
 >c. Any manufacturer operating or participating in an informal dispute settlement procedure for resolving disputes with consumers in this state shall be required to maintain records which indicate the number of:
 
-  >1. Vehicles sold in this state during the reporting period;
-  >2. telephone and written requests from consumers to enter the dispute resolution program; 
-  >3. requests rejected as ineligible for the program;
-  >4. requests accepted for resolution by the program; 
+  1. Vehicles sold in this state during the reporting period;
+  2. telephone and written requests from consumers to enter the dispute resolution program; 
+  3. requests rejected as ineligible for the program;
+  4. requests accepted for resolution by the program; 
   5. cases in which a decision was reached and the manufacturer has complied with the decision within the time period for compliance established by the decision;
   6. cases in which a decision was reached and the manufacturer's compliance occurred after the expiration of the time period for compliance established by the decision;
   7. cases in which a decision was reached, the time period for compliance has expired and the manufacturer has not complied with such decision;
