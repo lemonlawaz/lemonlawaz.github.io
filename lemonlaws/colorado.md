@@ -10,6 +10,7 @@ seo: Colorado Lemon Law
 **Colorado Statutes 42-10-101** Definitions.
 
 As used in this article, unless the context otherwise requires:
+
   1. **"Consumer"** means the purchaser, other than for purposes of resale, of a motor vehicle normally used for personal, family, or household purposes, any person to whom such motor vehicle is transferred for the same purposes during the duration of a manufacturer's express warranty for such motor vehicle, and any other person entitled by the terms of such warranty to enforce the obligations of the warranty. <br>
   2. **"Motor vehicle"** means a self-propelled private passenger vehicle, including pickup trucks and vans, designed primarily for travel on the public highways and used to carry not more than ten persons, which is sold to a consumer in this state; except that the term does not include motor homes as defined in section **42-1-102** (57) or vehicles designed to travel on three or fewer wheels in contact with the ground. <br>
   3. **"Warranty"** means the written warranty, so labeled, of the manufacturer of a new motor vehicle, including any terms or conditions precedent to the enforcement of obligations under that warranty.
@@ -24,25 +25,25 @@ If a motor vehicle does not conform to a warranty and the consumer reports the n
   2. 
     (a) It shall be presumed that a reasonable number of attempts have been undertaken to conform a motor vehicle to the warranty if:
 
-      (I) The same nonconformity has been subject to repair four or more times by the manufacturer, its agent, or its authorized dealer within the warranty term or during a period of one year following the date of the original delivery of the motor vehicle to the consumer, whichever is the earlier date, but such nonconformity continues to exist; or 
+    >(I) The same nonconformity has been subject to repair four or more times by the manufacturer, its agent, or its authorized dealer within the warranty term or during a period of one year following the date of the original delivery of the motor vehicle to the consumer, whichever is the earlier date, but such nonconformity continues to exist; or 
      
-      (II) The motor vehicle is out of service by reason of repair for a cumulative total of thirty or more business days of the repairer during the term specified in subparagraph (I) of this paragraph (a) or during the period specified in said subparagraph (I), whichever is the earlier date.
+    >(II) The motor vehicle is out of service by reason of repair for a cumulative total of thirty or more business days of the repairer during the term specified in subparagraph (I) of this paragraph (a) or during the period specified in said subparagraph (I), whichever is the earlier date.
 
-  (b) For the purposes of this subsection (2), the term of a warranty, the one-year period, and the thirty-day period shall be extended by any period of time during which repair services are not available to the consumer because of war, invasion, strike, or fire, flood, or other natural disaster. 
+  >(b) For the purposes of this subsection (2), the term of a warranty, the one-year period, and the thirty-day period shall be extended by any period of time during which repair services are not available to the consumer because of war, invasion, strike, or fire, flood, or other natural disaster. 
 
-  (c) In no event shall a presumption under paragraph (a) of this subsection (2) apply against a manufacturer unless the manufacturer has received prior written notification by certified mail from or on behalf of the consumer and has been provided an opportunity to cure the defect alleged. Such defect shall count as one nonconformity subject to repair under subparagraph (I) of paragraph (a) of this subsection (2). 
+  >(c) In no event shall a presumption under paragraph (a) of this subsection (2) apply against a manufacturer unless the manufacturer has received prior written notification by certified mail from or on behalf of the consumer and has been provided an opportunity to cure the defect alleged. Such defect shall count as one nonconformity subject to repair under subparagraph (I) of paragraph (a) of this subsection (2). 
 
-  (d) Every authorized motor vehicle dealer shall include a form, containing the manufacturer's name and business address, with each motor vehicle owner's manual on which the consumer may give written notification of any defect, as such notification is required by paragraph (c) of this subsection (2), and the form shall clearly and conspicuously disclose that written notification by certified mail of the nonconformity is required, in order for the consumer to obtain remedies under this article.
+  >(d) Every authorized motor vehicle dealer shall include a form, containing the manufacturer's name and business address, with each motor vehicle owner's manual on which the consumer may give written notification of any defect, as such notification is required by paragraph (c) of this subsection (2), and the form shall clearly and conspicuously disclose that written notification by certified mail of the nonconformity is required, in order for the consumer to obtain remedies under this article.
   
 (3) The court shall award reasonable attorney fees to the prevailing side in any action brought to enforce the provisions of this article.
 
 **Colorado Lemon law 42-10-104** Affirmative defenses.
 
   1. It shall be an affirmative defense to any claim under this article that:
+  
+>(a) An alleged nonconformity does not substantially impair the use and market value of a motor vehicle; or 
 
-    (a) An alleged nonconformity does not substantially impair the use and market value of a motor vehicle; or 
-    
-    (b) A nonconformity is the result of abuse, neglect, or unauthorized modifications or alterations of the motor vehicle by a consumer.
+>(b) A nonconformity is the result of abuse, neglect, or unauthorized modifications or alterations of the motor vehicle by a consumer.
 
 **Colorado Lemon law 42-10-105** Limitations on other rights and remedies.
 
