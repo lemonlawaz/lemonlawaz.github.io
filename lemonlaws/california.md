@@ -225,30 +225,36 @@ Except as provided in Section 1793.02, nothing in this chapter shall affect the 
 
 /__/ THIS VEHICLE WAS REPURCHASED BY ITS MANUFACTURER DUE TO A DEFECT IN THE VEHICLE PURSUANT TO CONSUMER WARRANTY LAWS. THE TITLE TO THIS VEHICLE HAS BEEN PERMANENTLY BRANDED WITH THE NOTATION "LEMON LAW BUYBACK." Under California law, the manufacturer must warrant to you, for a one year period, that the vehicle is free of the problem (s). listed below.
 
-___________________________________________________________ |V.I.N.      |Year     | Make      | Model     |
-|__________________________|________|__________|____________|
-___________________________________________________________
-| Problem(s) Reported by | Repairs Made, if any, to |
-| Original Owner | Correct Reported Problem(s) |
-|                      |                      |
-|                      |                      |
-|                      |                      |
-|                      |                      |
-|                      |                      |
-|                      |                      |
-|___________________________|_______________________________|
 
-Signature of Manufacturer                                     Date
-_______________________________________________ ____________
+V.I.N.        | Year  | Make  | Model |
+--------------|-------|-------|-------|
+              |                       |
 
-Signature of Dealer(s)                                          Date
-_______________________________________________ ____________
-_______________________________________________ ____________
-_______________________________________________ ____________
+Problem(s) Reported <br> by Original Owner | Repairs Made, if any, <br> to Correct Reported Problem(s)|
+:-----------------------------------------:|:--------------------------------------------------------:|
+|                      |                      |
+|                      |                      |
+|                      |                      |
+|                      |                      |
+|                      |                      |
+|                      |                      |
+|                      |                      |
 
-Signature of Retail Buyer or Lessee                     Date
-_______________________________________________ ____________
-_______________________________________________ ____________
+
+Signature of Manufacturer &emsp;&emsp;&emsp;&emsp;&emsp;Date
+
+_____________________________&emsp;&emsp;____________
+
+Signature of Dealer(s) &emsp;&emsp;&emsp;&emsp;&emsp;Date
+
+_____________________________&emsp;&emsp;____________ <br>
+_____________________________&emsp;&emsp;____________ <br>
+_____________________________&emsp;&emsp;____________
+
+Signature of Retail Buyer or Lessee&emsp;&emsp;&emsp;&emsp;&emsp;Date
+
+_____________________________&emsp;&emsp;____________ <br>
+_____________________________&emsp;&emsp;____________
 
 - The manufacturer shall provide an executed copy of the notice to the manufacturer's transferee. Each transferee, including a dealer, to whom the motor vehicle is transferred prior to its sale to a retail buyer or lessee shall be provided an executed copy of the notice by the previous transferor.  
 
