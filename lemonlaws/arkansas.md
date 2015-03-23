@@ -71,17 +71,17 @@ As used in this subchapter, unless the context otherwise requires:
 **Arkansas Lemon Law 4-90-404.** Notice by consumer - Disclosure by manufacturer, agent, or dealer.
 
 (a) <br>
-  1. A consumer must notify the manufacturer of a claim under this subchapter if the manufacturer has made the disclosure required by subsection (b) of this section. <br>
-  2. However, if the manufacturer has not made the required disclosure, the consumer is not required to notify the manufacturer of a claim under this subchapter.
+  >1. A consumer must notify the manufacturer of a claim under this subchapter if the manufacturer has made the disclosure required by subsection (b) of this section. <br>
+  >2. However, if the manufacturer has not made the required disclosure, the consumer is not required to notify the manufacturer of a claim under this subchapter.
 
 (b) <br>
-  1. At the time of the consumer's purchase or lease of the vehicle, the manufacturer, its agent, or an authorized dealer shall provide to the consumer a written statement that explains the consumer's rights and obligations under this subchapter. <br>
-  2. The written statement shall be prepared by the Consumer Protection Division of the Office of the Attorney General and shall include the telephone number of the Consumer Protection Division that the consumer can contact to obtain information regarding his or her rights and obligations under this subchapter. <br>
-  3. For each failure of the manufacturer, its agent, or an authorized dealer to provide to a consumer the written statement required under this section, the manufacturer shall be liable to the State of Arkansas for a civil penalty of not less than twenty-five dollars ($25.00) nor more than one thousand dollars ($1,000).
+  >1. At the time of the consumer's purchase or lease of the vehicle, the manufacturer, its agent, or an authorized dealer shall provide to the consumer a written statement that explains the consumer's rights and obligations under this subchapter. <br>
+  >2. The written statement shall be prepared by the Consumer Protection Division of the Office of the Attorney General and shall include the telephone number of the Consumer Protection Division that the consumer can contact to obtain information regarding his or her rights and obligations under this subchapter. <br>
+  >3. For each failure of the manufacturer, its agent, or an authorized dealer to provide to a consumer the written statement required under this section, the manufacturer shall be liable to the State of Arkansas for a civil penalty of not less than twenty-five dollars ($25.00) nor more than one thousand dollars ($1,000).
 
 (c) <br>
-  1. The manufacturer shall clearly and conspicuously disclose to the consumer, in the warranty or owner's manual, that written notice of the nonconformity is required before the buyer may be eligible for a refund or replacement of the vehicle. <br>
-  2. The manufacturer shall provide the consumer with conspicuous notice of the address and phone number for its zone, district, or regional office for this state at the time of vehicle acquisition, to which the buyer must send notification.
+  >1. The manufacturer shall clearly and conspicuously disclose to the consumer, in the warranty or owner's manual, that written notice of the nonconformity is required before the buyer may be eligible for a refund or replacement of the vehicle. <br>
+  >2. The manufacturer shall provide the consumer with conspicuous notice of the address and phone number for its zone, district, or regional office for this state at the time of vehicle acquisition, to which the buyer must send notification.
 
 **History. Acts 1993, No. 285, ? 5; 1993, No. 297, ? 5; 1995, No. 302, ? 2.**
 
@@ -93,12 +93,15 @@ History. Acts 1993, No. 285, ? 4; 1993, No. 297, ? 4.
 **Arkansas Lemon Law 4-90-406.** Failure to make required repairs.
 
 (a) <br>
-  1. After three (3) attempts have been made to repair the same nonconformity that substantially impairs the motor vehicle, or after one (1) attempt to repair a nonconformity that is likely to cause death or serious bodily injury, the consumer shall give written notification, by certified or registered mail, to the manufacturer of the need to repair the nonconformity in order to allow the manufacturer a final attempt to cure the nonconformity. <br>
-  2. The manufacturer shall, within ten (10) days after receipt of the notification, notify and provide the consumer with the opportunity to have the vehicle repaired at a reasonably accessible repair facility, and, after delivery of the vehicle to the designated repair facility by the consumer, the manufacturer shall, within ten (10) days, conform the motor vehicle to the warranty. <br>
-  3. If the manufacturer fails to notify and provide the consumer with the opportunity to have the vehicle repaired at a reasonably accessible repair facility or fails to perform the repairs within the time periods prescribed in this subsection, the requirement that the manufacturer be given a final attempt to cure the nonconformity does not apply and a non rebuttable presumption of a reasonable number of attempts to repair arises.
+
+  >1. After three (3) attempts have been made to repair the same nonconformity that substantially impairs the motor vehicle, or after one (1) attempt to repair a nonconformity that is likely to cause death or serious bodily injury, the consumer shall give written notification, by certified or registered mail, to the manufacturer of the need to repair the nonconformity in order to allow the manufacturer a final attempt to cure the nonconformity. <br>
+  >2. The manufacturer shall, within ten (10) days after receipt of the notification, notify and provide the consumer with the opportunity to have the vehicle repaired at a reasonably accessible repair facility, and, after delivery of the vehicle to the designated repair facility by the consumer, the manufacturer shall, within ten (10) days, conform the motor vehicle to the warranty. <br>
+  >3. If the manufacturer fails to notify and provide the consumer with the opportunity to have the vehicle repaired at a reasonably accessible repair facility or fails to perform the repairs within the time periods prescribed in this subsection, the requirement that the manufacturer be given a final attempt to cure the nonconformity does not apply and a non rebuttable presumption of a reasonable number of attempts to repair arises.
 
 (b) <br>
+
   1. <br>
+  
   >A. If the manufacturer, its agent, or authorized dealer has not conformed the motor vehicle to the warranty by repairing or correcting one (1) or more nonconformities that substantially impair the motor vehicle after a reasonable number of attempts, the manufacturer, within forty (40) days, shall: <br>
 
   >i. At the time of its receipt of payment of a reasonable offset for use by the consumer, replace the motor vehicle with a replacement motor vehicle acceptable to the consumer; or 
@@ -106,6 +109,7 @@ History. Acts 1993, No. 285, ? 4; 1993, No. 297, ? 4.
   >ii. Repurchase the motor vehicle from the consumer or lessor and refund to the consumer or lessor the full purchase price or lease price, less a reasonable offset for use and less a reasonable offset for physical damage sustained to the vehicle while under the ownership of the consumer. <br>
   
   >B. The replacement or refund shall include payment of all collateral and reasonably incurred incidental charges. <br>
+  
   2. (A) The consumer shall have an unconditional right to choose a refund rather than a replacement. (B) At the time of such refund or replacement, the consumer, lienholder, or lessor shall furnish to the manufacturer clear title to and possession of the motor vehicle. <br>
   3. The amount of reasonable offset for use by the consumer shall be determined by multiplying the actual price of the new motor vehicle paid or payable by the consumer, including any charges for transportation and manufacturer-installed or agent-installed options, by a fraction having as its denominator one hundred twenty thousand (120,000) and having as its numerator the number of miles traveled by the new motor vehicle prior to the time the buyer first delivered the vehicle to the manufacturer, its agent, or authorized dealer for correction of the problem that gave rise to the nonconformity.
 
@@ -207,21 +211,22 @@ It is an affirmative defense to any claim under this subchapter that:
   2. The informal dispute procedure must prescribe a reasonable time, not to exceed thirty (30) days after the decision is accepted by the buyer, within which the manufacturer or its agent must fulfill the terms of its decisions; 
   3. <br>
   
-  >A. No documents shall be received by any informal dispute procedure unless those documents have been provided to each of the parties in the dispute at or prior to the proceeding, with an opportunity for the parties to comment on the documents either in writing or orally.
-  >B. If a consumer is present during the informal dispute proceeding, the consumer may request postponement of the proceeding meeting to allow sufficient time to review any documents presented at the time of the meeting which had not been presented to the consumer prior to the time of the meeting;
+  >A. No documents shall be received by any informal dispute procedure unless those documents have been provided to each of the parties in the dispute at or prior to the proceeding, with an opportunity for the parties to comment on the documents either in writing or orally. <br>
+  >B. If a consumer is present during the informal dispute proceeding, the consumer may request postponement of the proceeding meeting to allow sufficient time to review any documents presented at the time of the meeting which had not been presented to the consumer prior to the time of the meeting; <br>
+
   4. <br>
   
-  >A. The informal dispute procedure shall allow each party to appear and make an oral presentation within the State of Arkansas unless the consumer agrees to submit the dispute for decision on the basis of documents alone or by telephone, or unless the party fails to appear for an oral presentation after reasonable prior written notice. 
-  >B. If the consumer agrees to submit the dispute for decision on the basis of documents alone, then the manufacturer or dealer representatives may not participate in the discussion or decision of the dispute;
-  5. Consumers shall be given an adequate opportunity to contest a manufacturer's assertion that a nonconformity falls within intended specifications for the vehicle by having the basis of the manufacturer's claim appraised by a technical expert selected and paid for by the consumer prior to the informal dispute settlement hearing; 
-  6. A consumer may not be charged with a fee to participate in an informal dispute procedure; and 
+  >A. The informal dispute procedure shall allow each party to appear and make an oral presentation within the State of Arkansas unless the consumer agrees to submit the dispute for decision on the basis of documents alone or by telephone, or unless the party fails to appear for an oral presentation after reasonable prior written notice. <br>
+  >B. If the consumer agrees to submit the dispute for decision on the basis of documents alone, then the manufacturer or dealer representatives may not participate in the discussion or decision of the dispute; <br>
+  5. Consumers shall be given an adequate opportunity to contest a manufacturer's assertion that a nonconformity falls within intended specifications for the vehicle by having the basis of the manufacturer's claim appraised by a technical expert selected and paid for by the consumer prior to the informal dispute settlement hearing;  <br>
+  6. A consumer may not be charged with a fee to participate in an informal dispute procedure; and  <br>
   7. Any party to the dispute has the right to be represented by an attorney in an informal dispute proceeding.
 
 (c) <br>
   1.  <br>
   
-  >A. The informal dispute procedure shall annually submit a pool of not less than six (6) members who are appointed with the advice and consent of the Consumer Protection Division of the Office of the Attorney General. 
-  >B. Selected strictly by rotation, one (1) member shall hear disputes scheduled for a particular session unless the consumer requests a panel of three (3) members, in which case three (3) members shall hear disputes scheduled for a particular three-member session.
+  >A. The informal dispute procedure shall annually submit a pool of not less than six (6) members who are appointed with the advice and consent of the Consumer Protection Division of the Office of the Attorney General. <br>
+  >B. Selected strictly by rotation, one (1) member shall hear disputes scheduled for a particular session unless the consumer requests a panel of three (3) members, in which case three (3) members shall hear disputes scheduled for a particular three-member session. <br>
   >C. If the informal dispute procedure deems it appropriate to require the services of an independent investigator, such investigator shall be selected from a pool of not less than four (4) members who are appointed annually with the advice and consent of the Consumer Protection Division of the Office of the Attorney General and from which the particular investigator shall be selected strictly by rotation. <br>
   2. Upon notification to the administrator of any informal dispute procedure that a determination has been made by the Consumer Protection Division of the Office of the Attorney General that a member of any pool is not conforming to standards of fairness and impartiality, that member shall be immediately removed from the pool.
 
