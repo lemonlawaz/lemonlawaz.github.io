@@ -77,11 +77,12 @@ Sec. 7. As used in this chapter, "term of protection" means a period of time tha
 
 1) begins:
 
->A. on the date of original delivery of a motor vehicle to a buyer; or
+>A. on the date of original delivery of a motor vehicle to a buyer; or <br>
 >B. in the case of a replacement vehicle provided by a manufacturer to a buyer under this chapter, on the date of delivery of the replacement vehicle to the buyer; and
  
-2) ends the earlier of:
->A. eighteen (18) months after the date identified under subdivision (1); or
+2) ends the earlier of: <br>
+
+>A. eighteen (18) months after the date identified under subdivision (1); or <br>
 >B. the time the motor vehicle has been driven eighteen thousand (18,000) miles after the date identified under subdivision (1).
 
 As added by P.L.150-1988, SEC.1.
@@ -96,7 +97,7 @@ As added by P.L.150-1988, SEC.1.
 
 Sec. 9.
 
->a. A buyer must first notify the manufacturer of a claim under this chapter if the manufacturer has made the disclosure required by subsection (b). However, if the manufacturer has not made the required disclosure, the buyer is not required to notify the manufacturer of a claim under this chapter.
+>a. A buyer must first notify the manufacturer of a claim under this chapter if the manufacturer has made the disclosure required by subsection (b). However, if the manufacturer has not made the required disclosure, the buyer is not required to notify the manufacturer of a claim under this chapter. <br> 
 >b. The manufacturer shall clearly and conspicuously disclose to the buyer, in the warranty or owner's manual, that written notification of the nonconformity is required before the buyer may be eligible for a refund or replacement of the vehicle. The manufacturer shall include with the warranty or owner's manual the name and address to which the buyer must send notification.
 
 As added by P.L.150-1988, SEC.1.
@@ -111,7 +112,7 @@ As added by P.L.150-1988, SEC.1.
 
 Sec. 11.
 
->a. If a refund is tendered under this chapter with respect to a vehicle that is not a leased vehicle, the refund must be the full contract price of the vehicle, including all credits and allowances for any trade-in vehicle and less a reasonable allowance for use.
+>a. If a refund is tendered under this chapter with respect to a vehicle that is not a leased vehicle, the refund must be the full contract price of the vehicle, including all credits and allowances for any trade-in vehicle and less a reasonable allowance for use. <br> 
 >b. To determine a reasonable allowance for use under this section, multiply:
 
   >1. the total contract price of the vehicle; by <br>
@@ -119,10 +120,10 @@ Sec. 11.
  
 >c. The refund must also include reimbursement for the following incidental costs:
 
-  1. All sales tax. <br>
-  2. The unexpended portion of the registration fee and excise tax that has been prepaid for any calendar year. <br>
-  3. All finance charges actually expended. <br>
-  4. The cost of all options added by the authorized dealer. <br>
+  >1. All sales tax. <br>
+  >2. The unexpended portion of the registration fee and excise tax that has been prepaid for any calendar year. <br>
+  >3. All finance charges actually expended. <br>
+  >4. The cost of all options added by the authorized dealer. <br>
  
 >d. Refunds made under this section shall be made to the buyer and lienholder, if any, as their respective interests appear on the records of ownership.
 
