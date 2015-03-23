@@ -32,8 +32,8 @@ If a new automobile does not conform to the manufacturer's express warranty, and
 
 >c. In instances in which a refund is tendered under this section, the manufacturer shall accept return of the automobile from the consumer and shall reimburse the consumer for related purchase costs, including sales taxes, registration fees and dealer preparation fees, less:
 
-  1. A reasonable allowance for the consumer's use of the automobile, not to exceed the full purchase price of the automobile multiplied by a fraction which consists of the number of miles driven before the consumer first reported the nonconformity to the manufacturer, its agent or dealer divided by 100,000 miles; and
-  2. A reasonable allowance for damage not attributable to normal wear and tear, but not to include damage resulting from a nonconformity.
+  >1. A reasonable allowance for the consumer's use of the automobile, not to exceed the full purchase price of the automobile multiplied by a fraction which consists of the number of miles driven before the consumer first reported the nonconformity to the manufacturer, its agent or dealer divided by 100,000 miles; and
+  >2. A reasonable allowance for damage not attributable to normal wear and tear, but not to include damage resulting from a nonconformity.
 
 >d. Refunds shall be made to the consumer, and lienholder, if any, as their interests may appear.
 
@@ -43,8 +43,8 @@ If a new automobile does not conform to the manufacturer's express warranty, and
 
 >a. It shall be presumed that a reasonable number of attempts have been undertaken to conform a new automobile to the manufacturer's express warranty if, within the warranty term or during the period of 1 year following the date of original delivery of the motor vehicle to a consumer, whichever is the earlier date:
 
-  1. Substantially the same nonconformity has been subject to repair or correction 4 or more times by the manufacturer, its agents or its dealers and the nonconformity continues to exist; or
-  2. The automobile is out of service by reason of repair or correction of a nonconformity by the manufacturer, its agents or its dealers for a cumulative total of more than 30 calendar days since the original delivery of the motor vehicle to the consumer. This 30-day limit shall commence with the first day on which the consumer presents the automobile to the manufacturer, its agent or dealer for service of the nonconformity and a written document describing the nonconformity is prepared by the manufacturer, its agent or dealer. The 30-day limit shall be extended only if repairs cannot be performed due to conditions beyond the control of the manufacturer, its agents or its dealers, including war, invasion, strike, fire, flood or other natural disaster.
+  >1. Substantially the same nonconformity has been subject to repair or correction 4 or more times by the manufacturer, its agents or its dealers and the nonconformity continues to exist; or
+  >2. The automobile is out of service by reason of repair or correction of a nonconformity by the manufacturer, its agents or its dealers for a cumulative total of more than 30 calendar days since the original delivery of the motor vehicle to the consumer. This 30-day limit shall commence with the first day on which the consumer presents the automobile to the manufacturer, its agent or dealer for service of the nonconformity and a written document describing the nonconformity is prepared by the manufacturer, its agent or dealer. The 30-day limit shall be extended only if repairs cannot be performed due to conditions beyond the control of the manufacturer, its agents or its dealers, including war, invasion, strike, fire, flood or other natural disaster.
 
 >b. The presumption provided in this section shall not apply against a manufacturer unless the manufacturer has received prior direct written notification from or on behalf of the consumer and has had an opportunity to repair or correct the nonconformity; provided, however, that if the manufacturer does not directly attempt or arrange with its dealer or agent to repair or correct the nonconformity, the manufacturer may not defend a claim by a consumer under this chapter on the ground that the agent or dealer failed to properly repair or correct the nonconformity or that the repairs or corrections made by the agent or dealer caused or contributed to the nonconformity.
 
@@ -66,15 +66,15 @@ It shall be an affirmative defense to a claim under this chapter that the allege
 
 >d. In order to obtain the certification of the Division of Consumer Protection, a manufacturer's informal dispute settlement procedure shall not convene any informal dispute settlement hearing or meeting outside the State and shall refrain from any practices which:
 
-  1. Delay a decision in any dispute beyond 65 days after the date on which the consumer initially resorts to the informal dispute settlement procedure by written notification that a dispute exists; or
-  2. Delay performance of remedies awarded in a settlement beyond 30 days after receipt of notice of the consumer's acceptance of the decision; provided, however, that such time limits shall not include periods of time when the consumer or the consumer's car is unavailable for the remedies specified in the settlement; or
-  3. Require the consumer to make the automobile available more than once for inspection by a manufacturer's representative or more than once for repair of the same nonconformity; or
-  4. Fail to consider in decisions any remedies provided by this chapter, such remedies to include:
+  >1. Delay a decision in any dispute beyond 65 days after the date on which the consumer initially resorts to the informal dispute settlement procedure by written notification that a dispute exists; or
+  >2. Delay performance of remedies awarded in a settlement beyond 30 days after receipt of notice of the consumer's acceptance of the decision; provided, however, that such time limits shall not include periods of time when the consumer or the consumer's car is unavailable for the remedies specified in the settlement; or
+  >3. Require the consumer to make the automobile available more than once for inspection by a manufacturer's representative or more than once for repair of the same nonconformity; or
+  >4. Fail to consider in decisions any remedies provided by this chapter, such remedies to include:
  
-  >a. Repair, replacement and refund;
+  >a. Repair, replacement and refund; <br>
   >b. Reimbursement for related purchase costs; or
 
-  5.) Require the consumer to take any action or assume any obligation not specifically authorized under the provisions of Title 16, Code of Federal Regulations, Part 703.
+  >5.) Require the consumer to take any action or assume any obligation not specifically authorized under the provisions of Title 16, Code of Federal Regulations, Part 703.
   
 >e. A manufacturer desiring annual certification of an informal dispute settlement procedure shall make application to the Division of Consumer Protection on forms developed by, and shall provide such information as required by, the Division of Consumer Protection.
 
