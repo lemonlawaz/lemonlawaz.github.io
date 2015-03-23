@@ -59,6 +59,7 @@ As used in this subchapter, unless the context otherwise requires:
   >   (ii)In the case of a replacement vehicle provided by a manufacturer to a consumer under this subchapter, on the date of delivery of the replacement vehicle to the consumer; and
   
   >B. Ends twenty-four (24) months after the date of the original delivery of the motor vehicle to a consumer, or the first twenty-four thousand (24,000) miles of operation attributable to the consumer, whichever is later; <br>
+  
   (13.) "Nonconformity" means any specific or generic defect or condition or any concurrent combination of defects or conditions that:  <br>
   (14.) "Person" means any natural person, partnership, firm, corporation, association, joint venture, trust, or other legal entity; <br>
   (15.) "Purchase price" means the cash price paid for the motor vehicle appearing in the sales agreement or contract, including any net allowance for a trade-in vehicle; <br>
@@ -98,12 +99,13 @@ History. Acts 1993, No. 285, ? 4; 1993, No. 297, ? 4.
 
 (b) <br>
   1. <br>
-  A. If the manufacturer, its agent, or authorized dealer has not conformed the motor vehicle to the warranty by repairing or correcting one (1) or more nonconformities that substantially impair the motor vehicle after a reasonable number of attempts, the manufacturer, within forty (40) days, shall: <br>
+  >A. If the manufacturer, its agent, or authorized dealer has not conformed the motor vehicle to the warranty by repairing or correcting one (1) or more nonconformities that substantially impair the motor vehicle after a reasonable number of attempts, the manufacturer, within forty (40) days, shall: <br>
+
   >i. At the time of its receipt of payment of a reasonable offset for use by the consumer, replace the motor vehicle with a replacement motor vehicle acceptable to the consumer; or 
 
   >ii. Repurchase the motor vehicle from the consumer or lessor and refund to the consumer or lessor the full purchase price or lease price, less a reasonable offset for use and less a reasonable offset for physical damage sustained to the vehicle while under the ownership of the consumer. <br>
   
-  B. The replacement or refund shall include payment of all collateral and reasonably incurred incidental charges. <br>
+  >B. The replacement or refund shall include payment of all collateral and reasonably incurred incidental charges. <br>
   2. (A) The consumer shall have an unconditional right to choose a refund rather than a replacement. (B) At the time of such refund or replacement, the consumer, lienholder, or lessor shall furnish to the manufacturer clear title to and possession of the motor vehicle. <br>
   3. The amount of reasonable offset for use by the consumer shall be determined by multiplying the actual price of the new motor vehicle paid or payable by the consumer, including any charges for transportation and manufacturer-installed or agent-installed options, by a fraction having as its denominator one hundred twenty thousand (120,000) and having as its numerator the number of miles traveled by the new motor vehicle prior to the time the buyer first delivered the vehicle to the manufacturer, its agent, or authorized dealer for correction of the problem that gave rise to the nonconformity.
 
@@ -114,6 +116,7 @@ History. Acts 1993, No. 285, ? 4; 1993, No. 297, ? 4.
 (a) <br>
   1. Refunds shall be made to the consumer and lienholder of record, if any, as their interests may appear. <br>
   2. If applicable, refunds shall be made to the lessor and lessee as follows: <br>
+  
   >A. The lessee shall receive the lessee cost less a reasonable offset for use; and 
 
   >B. The lessor shall receive the lease price less the aggregate deposit and rental payments previously paid to the lessor for the leased vehicle.
@@ -147,6 +150,7 @@ A consumer has the option of retaining the use of any vehicle returned under thi
   3. There have been five (5) or more attempts, on separate occasions, to repair any nonconformities that together substantially impair the use and value of the motor vehicle to the consumer.
 
 (b) <br>
+
   1. The thirty (30) calendar days in subdivision (a)(2) of this section shall be extended by any period of time during which repair services are not available as a direct result of war, invasion, strike, fire, flood, or natural disaster.
   2. The manufacturer, its agent, or authorized dealer shall provide or make provisions for the free use of a vehicle to any consumer whose vehicle is out of service beyond thirty (30) days by reason of delayed repair as a direct result of war, invasion, strike, fire, flood, or natural disaster.
 
@@ -159,6 +163,7 @@ A consumer has the option of retaining the use of any vehicle returned under thi
 (a) A manufacturer, its agent, or authorized dealer may not refuse to diagnose or repair any vehicle for the purpose of avoiding liability under this subchapter. 
 
 (b) <br>
+
   1. A manufacturer, its agent, or authorized dealer shall provide a consumer with a written repair order each time the consumer's vehicle is brought in for examination or repair.
   2. The repair order must indicate all work performed on the vehicle, including examination of the vehicle, parts, and labor.
 
@@ -187,9 +192,11 @@ It is an affirmative defense to any claim under this subchapter that:
 **Arkansas Lemon Law 4-90-414.** Informal proceeding as precedent.
 
 (a) <br>
-  1. Any manufacturer doing business in this state, entering into franchise agreements for the sale of its motor vehicles in this state, or offering express warranties on its motor vehicles sold or distributed for sale in this state, shall operate, or participate in, an informal dispute settlement proceeding located in the State of Arkansas which complies with the requirements of this section.
-  2. The provisions of ? 4-90-406(b)(1) and (2) concerning refunds or replacement do not apply to a consumer who has not first used this informal proceeding before commencing a civil action, unless the manufacturer allows a consumer to commence an action without first using this informal procedure.
+
+  1. Any manufacturer doing business in this state, entering into franchise agreements for the sale of its motor vehicles in this state, or offering express warranties on its motor vehicles sold or distributed for sale in this state, shall operate, or participate in, an informal dispute settlement proceeding located in the State of Arkansas which complies with the requirements of this section. <br>
+  2. The provisions of ? 4-90-406(b)(1) and (2) concerning refunds or replacement do not apply to a consumer who has not first used this informal proceeding before commencing a civil action, unless the manufacturer allows a consumer to commence an action without first using this informal procedure. <br>
   3.  <br>
+  
   >A. The consumer shall receive adequate written notice from the manufacturer of the existence of the procedure.
 
   >B. Adequate written notice may include the incorporation of the informal dispute settlement procedure into the terms of the written warranty to which the motor vehicle does not conform.
@@ -199,9 +206,11 @@ It is an affirmative defense to any claim under this subchapter that:
   1. The informal dispute procedure must comply with the minimum requirements of the Federal Trade Commission for informal dispute settlement procedures as set forth in 16 C.F.R. ? 703.1 et seq., as in effect on the date of adoption of this subchapter, unless any provision of 16 C.F.R. ? 703.1 et seq. is in conflict with this subchapter, in which case the provisions of this subchapter shall govern; 
   2. The informal dispute procedure must prescribe a reasonable time, not to exceed thirty (30) days after the decision is accepted by the buyer, within which the manufacturer or its agent must fulfill the terms of its decisions; 
   3. <br>
+  
   >A. No documents shall be received by any informal dispute procedure unless those documents have been provided to each of the parties in the dispute at or prior to the proceeding, with an opportunity for the parties to comment on the documents either in writing or orally.
   >B. If a consumer is present during the informal dispute proceeding, the consumer may request postponement of the proceeding meeting to allow sufficient time to review any documents presented at the time of the meeting which had not been presented to the consumer prior to the time of the meeting;
   4. <br>
+  
   >A. The informal dispute procedure shall allow each party to appear and make an oral presentation within the State of Arkansas unless the consumer agrees to submit the dispute for decision on the basis of documents alone or by telephone, or unless the party fails to appear for an oral presentation after reasonable prior written notice. 
   >B. If the consumer agrees to submit the dispute for decision on the basis of documents alone, then the manufacturer or dealer representatives may not participate in the discussion or decision of the dispute;
   5. Consumers shall be given an adequate opportunity to contest a manufacturer's assertion that a nonconformity falls within intended specifications for the vehicle by having the basis of the manufacturer's claim appraised by a technical expert selected and paid for by the consumer prior to the informal dispute settlement hearing; 
@@ -210,6 +219,7 @@ It is an affirmative defense to any claim under this subchapter that:
 
 (c) <br>
   1.  <br>
+  
   >A. The informal dispute procedure shall annually submit a pool of not less than six (6) members who are appointed with the advice and consent of the Consumer Protection Division of the Office of the Attorney General. 
   >B. Selected strictly by rotation, one (1) member shall hear disputes scheduled for a particular session unless the consumer requests a panel of three (3) members, in which case three (3) members shall hear disputes scheduled for a particular three-member session.
   >C. If the informal dispute procedure deems it appropriate to require the services of an independent investigator, such investigator shall be selected from a pool of not less than four (4) members who are appointed annually with the advice and consent of the Consumer Protection Division of the Office of the Attorney General and from which the particular investigator shall be selected strictly by rotation. <br>
