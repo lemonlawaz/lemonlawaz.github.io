@@ -20,12 +20,12 @@ I've been using mostly bullets (instead of letters and roman numerals), But if I
 
 - Bar
 
-    - A. Foo
+    - A) Foo
 
-    - B. Bar.
+    - B) Bar.
 
-        - i. asdfasdfasdf
-        - ii. asdfasdfsadfsa
+        - 1) asdfasdfasdf
+        - 2) asdfasdfsadfsa
 
 
 btw, doing this doesn't seem to work

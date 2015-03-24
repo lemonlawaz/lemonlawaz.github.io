@@ -248,24 +248,27 @@ History. Acts 1993, No. 285, ? 15; 1993, No. 297, ? 15.
 
 - B. The informal dispute procedure must be certified by the Consumer Protection Division of the Office of the Attorney General as meeting the following criteria: 
 
-    - 1. The informal dispute procedure must comply with the minimum requirements of the Federal Trade Commission for informal dispute settlement procedures as set forth in 16 C.F.R. ? 703.1 et seq., as in effect on the date of adoption of this subchapter, unless any provision of 16 C.F.R. ? 703.1 et seq. is in conflict with this subchapter, in which case the provisions of this subchapter shall govern; 
+    - 1) The informal dispute procedure must comply with the minimum requirements of the Federal Trade Commission for informal dispute settlement procedures as set forth in 16 C.F.R. ? 703.1 et seq., as in effect on the date of adoption of this subchapter, unless any provision of 16 C.F.R. ? 703.1 et seq. is in conflict with this subchapter, in which case the provisions of this subchapter shall govern; 
 
-    - 2. The informal dispute procedure must prescribe a reasonable time, not to exceed thirty (30) days after the decision is accepted by the buyer, within which the manufacturer or its agent must fulfill the terms of its decisions; 
+    - 2) The informal dispute procedure must prescribe a reasonable time, not to exceed thirty (30) days after the decision is accepted by the buyer, within which the manufacturer or its agent must fulfill the terms of its decisions; 
 
-    - 3.
+    - 3)
 
         - A. No documents shall be received by any informal dispute procedure unless those documents have been provided to each of the parties in the dispute at or prior to the proceeding, with an opportunity for the parties to comment on the documents either in writing or orally. 
 
         - B. If a consumer is present during the informal dispute proceeding, the consumer may request postponement of the proceeding meeting to allow sufficient time to review any documents presented at the time of the meeting which had not been presented to the consumer prior to the time of the meeting; 
 
-  4.) 
+    - 4) 
   
-  >A. The informal dispute procedure shall allow each party to appear and make an oral presentation within the State of Arkansas unless the consumer agrees to submit the dispute for decision on the basis of documents alone or by telephone, or unless the party fails to appear for an oral presentation after reasonable prior written notice. 
-  >B. If the consumer agrees to submit the dispute for decision on the basis of documents alone, then the manufacturer or dealer representatives may not participate in the discussion or decision of the dispute; 
+        - A. The informal dispute procedure shall allow each party to appear and make an oral presentation within the State of Arkansas unless the consumer agrees to submit the dispute for decision on the basis of documents alone or by telephone, or unless the party fails to appear for an oral presentation after reasonable prior written notice. 
+            
+        - B. If the consumer agrees to submit the dispute for decision on the basis of documents alone, then the manufacturer or dealer representatives may not participate in the discussion or decision of the dispute; 
   
-  5.) Consumers shall be given an adequate opportunity to contest a manufacturer's assertion that a nonconformity falls within intended specifications for the vehicle by having the basis of the manufacturer's claim appraised by a technical expert selected and paid for by the consumer prior to the informal dispute settlement hearing;  
-  6.) A consumer may not be charged with a fee to participate in an informal dispute procedure; and  
-  7.) Any party to the dispute has the right to be represented by an attorney in an informal dispute proceeding.
+    - 5) Consumers shall be given an adequate opportunity to contest a manufacturer's assertion that a nonconformity falls within intended specifications for the vehicle by having the basis of the manufacturer's claim appraised by a technical expert selected and paid for by the consumer prior to the informal dispute settlement hearing;  
+    
+    - 6) A consumer may not be charged with a fee to participate in an informal dispute procedure; and  
+    
+    - 7) Any party to the dispute has the right to be represented by an attorney in an informal dispute proceeding.
 
 (c) 
   1.)  
