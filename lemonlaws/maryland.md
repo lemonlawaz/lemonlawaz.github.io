@@ -60,8 +60,8 @@ seo: Maryland Lemon Law
   >i. Replace the motor vehicle with a comparable motor vehicle acceptable to the consumer; or
   >ii. Accept return of the motor vehicle from the consumer and refund to the consumer the full purchase price including all license fees, registration fees, and any similar governmental charges, less:
 
-  1. A reasonable allowance for the consumer's use of the vehicle not to exceed 15 percent of the purchase price; and
-  2. A reasonable allowance for damage not attributable to normal wear but not to include damage resulting from a nonconformity, defect, or condition.
+  >1. A reasonable allowance for the consumer's use of the vehicle not to exceed 15 percent of the purchase price; and
+  >2. A reasonable allowance for damage not attributable to normal wear but not to include damage resulting from a nonconformity, defect, or condition.
 
 >2.) The manufacturer or factory branch shall make refunds under this section to the consumer and lienholder, if any, as their interests appear on the records of ownership maintained by the Motor Vehicle Administration.
 
@@ -143,8 +143,8 @@ seo: Maryland Lemon Law
 
 >a. <br>
 
-  1. If a dealer, manufacturer, factory branch, or distributor is required under a judgment, decree, arbitration award, or settlement agreement to accept, or by voluntary agreement accepts, return of a motor vehicle from a consumer, the consumer shall be entitled to recover from the Motor Vehicle Administration the excise taxes originally paid by the consumer, subject to subsection (b) of this section.
-  2. <br>
+  >1. If a dealer, manufacturer, factory branch, or distributor is required under a judgment, decree, arbitration award, or settlement agreement to accept, or by voluntary agreement accepts, return of a motor vehicle from a consumer, the consumer shall be entitled to recover from the Motor Vehicle Administration the excise taxes originally paid by the consumer, subject to subsection (b) of this section.
+  >2. <br>
   
   >i. If a dealer, manufacturer, factory branch, or distributor replaces a motor vehicle with a comparable motor vehicle under ? 14-1502(c)(1)(i) of this subtitle, the Motor Vehicle Administration shall allow a credit against the excise tax imposed for the replacement vehicle in the amount of the excise taxes originally paid by the consumer for the returned vehicle, subject to subsection (b) of this section. <br> 
   >ii. <br>
