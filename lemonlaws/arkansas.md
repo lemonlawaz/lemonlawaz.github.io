@@ -237,7 +237,7 @@ History. Acts 1993, No. 285, ? 15; 1993, No. 297, ? 15.
 
 **Arkansas Lemon Law 4-90-414. Informal proceeding as precedent.**
 
-- A 
+- A. 
     - Any manufacturer doing business in this state, entering into franchise agreements for the sale of its motor vehicles in this state, or offering express warranties on its motor vehicles sold or distributed for sale in this state, shall operate, or participate in, an informal dispute settlement proceeding located in the State of Arkansas which complies with the requirements of this section. 
 
     - The provisions of ? 4-90-406(b)(1) and (2) concerning refunds or replacement do not apply to a consumer who has not first used this informal proceeding before commencing a civil action, unless the manufacturer allows a consumer to commence an action without first using this informal procedure. 
@@ -270,37 +270,40 @@ History. Acts 1993, No. 285, ? 15; 1993, No. 297, ? 15.
     
     - 7) Any party to the dispute has the right to be represented by an attorney in an informal dispute proceeding.
 
-(c) 
-  1.)  
+- C 
+
+    - 1)  
   
-  >A. The informal dispute procedure shall annually submit a pool of not less than six (6) members who are appointed with the advice and consent of the Consumer Protection Division of the Office of the Attorney General. 
-  >B. Selected strictly by rotation, one (1) member shall hear disputes scheduled for a particular session unless the consumer requests a panel of three (3) members, in which case three (3) members shall hear disputes scheduled for a particular three-member session. 
-  >C. If the informal dispute procedure deems it appropriate to require the services of an independent investigator, such investigator shall be selected from a pool of not less than four (4) members who are appointed annually with the advice and consent of the Consumer Protection Division of the Office of the Attorney General and from which the particular investigator shall be selected strictly by rotation. 
+        - The informal dispute procedure shall annually submit a pool of not less than six (6) members who are appointed with the advice and consent of the Consumer Protection Division of the Office of the Attorney General. 
 
-  2.) Upon notification to the administrator of any informal dispute procedure that a determination has been made by the Consumer Protection Division of the Office of the Attorney General that a member of any pool is not conforming to standards of fairness and impartiality, that member shall be immediately removed from the pool.
+        - Selected strictly by rotation, one (1) member shall hear disputes scheduled for a particular session unless the consumer requests a panel of three (3) members, in which case three (3) members shall hear disputes scheduled for a particular three-member session. 
 
-**History. Acts 1993, No. 285, ? 16; 1993, No. 297, ? 16.**
+        - If the informal dispute procedure deems it appropriate to require the services of an independent investigator, such investigator shall be selected from a pool of not less than four (4) members who are appointed annually with the advice and consent of the Consumer Protection Division of the Office of the Attorney General and from which the particular investigator shall be selected strictly by rotation. 
 
-**Arkansas Lemon Law 4-90-415.** Enforcement - Exclusivity - Costs and expenses.
+    - 2) Upon notification to the administrator of any informal dispute procedure that a determination has been made by the Consumer Protection Division of the Office of the Attorney General that a member of any pool is not conforming to standards of fairness and impartiality, that member shall be immediately removed from the pool.
 
-(a) A consumer may bring a civil action to enforce this subchapter in a court of competent jurisdiction.
+History. Acts 1993, No. 285, ? 16; 1993, No. 297, ? 16.
 
-(b) This subchapter does not limit the rights and remedies that are otherwise available to a consumer under any applicable provisions of law.
+**Arkansas Lemon Law 4-90-415. Enforcement - Exclusivity - Costs and expenses.**
 
-(c) A consumer who prevails in any legal proceeding under this subchapter is entitled to recover as part of the judgment a sum equal to the aggregate amount of costs and expenses, including attorney's fees based upon actual time expended by the attorney, determined by the court to have been reasonably incurred by the consumer for or in connection with the commencement and prosecution of the action.
+- A consumer may bring a civil action to enforce this subchapter in a court of competent jurisdiction.
 
-**History. Acts 1993, No. 285, ?? 17-19; 1993, No. 297, ?? 17-19.**
+- This subchapter does not limit the rights and remedies that are otherwise available to a consumer under any applicable provisions of law.
 
-**Arkansas Lemon Law 4-90-416.** Time limitation for commencement of action.
+- A consumer who prevails in any legal proceeding under this subchapter is entitled to recover as part of the judgment a sum equal to the aggregate amount of costs and expenses, including attorney's fees based upon actual time expended by the attorney, determined by the court to have been reasonably incurred by the consumer for or in connection with the commencement and prosecution of the action.
 
-(a) An action brought under this subchapter must be commenced within two (2) years following the date the buyer first reports the nonconformity to the manufacturer, its agent, or authorized dealer.
+History. Acts 1993, No. 285, 17-19; 1993, No. 297, 17-19.
 
-(b) When the buyer has commenced an informal dispute settlement procedure described in ? 4-90-414, the two-year period specified in subsection (a) of this section begins to run at the time the informal dispute settlement procedure is being commenced. 
+**Arkansas Lemon Law 4-90-416. Time limitation for commencement of action.**
 
-**History. Acts 1993, No. 285, ? 20; 1993, No. 297, ? 20.**
+- An action brought under this subchapter must be commenced within two (2) years following the date the buyer first reports the nonconformity to the manufacturer, its agent, or authorized dealer.
 
-**Arkansas Lemon Law 4-90-417.** Deceptive trade practices.
+- When the buyer has commenced an informal dispute settlement procedure described in ? 4-90-414, the two-year period specified in subsection (a) of this section begins to run at the time the informal dispute settlement procedure is being commenced. 
 
-A violation of any of the provisions of this subchapter shall be deemed a deceptive trade practice under ? 4-88-101 et seq. 
+History. Acts 1993, No. 285, 20; 1993, No. 297, 20.
 
-**History. Acts 1993, No. 285, ? 21; 1993, No. 297, ? 21.**
+**Arkansas Lemon Law 4-90-417. Deceptive trade practices.**
+
+- A violation of any of the provisions of this subchapter shall be deemed a deceptive trade practice under ? 4-88-101 et seq. 
+
+History. Acts 1993, No. 285, 21; 1993, No. 297, 21.

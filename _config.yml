@@ -13,4 +13,4 @@ markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
-  extensions: ["autolink"]
+  extensions: ["tables", "autolink"]
