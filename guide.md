@@ -1,42 +1,42 @@
-I've made the header anchors point to all the right filenames (I think). When you name stuff .md, it will become .html. So for instance, his current site has .com/attorneys/   but we'll end up having .com/attorneys.html. This will also mean you'll do a lot of these pages on the web root.
+I changed the markdown engine out for a new one - one that handles nested bullets better
 
-I think the only pages that probably wont be on the web root are the "states" pages found in the lemonlaws folder. These are all the states found at the bottom of http://lemonlawaz.com/lemonlaws/  I made an index page which is our version of this. It has a bullet point list going at the bottom which is dynamic based on you making the state pages.
+- Now we can have
 
-Just be sure that the state pages have "state: Arizona" in the top of the page
+- Nested Lists
 
-Speaking of which the top of each page needs to have the following "Front Matter" properties:
----
-layout: page
-title: Pryor, Ramirez & Amar
-seo: Lemon Law
----
+    - Like this
 
-the "title" property becomes the page's h2 tag which is the bigger text at the top of each page
+    - and like this
 
-"seo" is the property that shows up in the h1 tag (the smaller text on the upper right of each page)
+Can you adjust your sublime settings to use four space tabs (you can do this in the lower right of sublime next to the syntax setter). It makes the tabs easier to see.
 
-I think you'll see how these work if your examine the home page and see where the parts go
+Lets also separate bullets with hard returns
 
-Be sure to include all files from the webroot:
-Good: [foo](/foo.html)
-Bad: [foo](foo.html)
+With this new nested bullet thing we don't need <br> tags or ">" to manipulate white space. I'd actually prefer to not use those since I want to make this stuff as easy for him to do as possible
 
-Let's do **bold like this**
-and *italic like this*
+I've been using mostly bullets (instead of letters and roman numerals), But if I feel like I must use letters and numbers for the circumstances, then I've found it works best like this:
 
-For images, because we want to float them, do:
-<img src="#"> for float left, and
-<img src="#" class="right"> for float right
-This is because the normal markdown way of doing images doesnt allow us to add classes. Plus I the MD way is just as exotic as the HTML way for him to learn so I think the HTML way makes sense.
+- Foo
 
-Don't worry about the Thank You Letter PDFs
+- Bar
 
-Don't worry about the Free Case Review page
+    - A. Foo
 
-On his links page, remove any links that are 404s. I'll tell him some links went away
+    - B. Bar.
 
-Try to match his content as close as you can. You can technically use HTML in markdown files but we're going to try not to except with the <img> tags. We can even use # for h1's several times on the page where you see 
+        - i. asdfasdfasdf
+        - ii. asdfasdfsadfsa
 
-Remember the links in the footer too.
 
-Do as much as you want to do with the markdown stuff. Let me know if you get to the 8 hour mark though. Thanks you
+btw, doing this doesn't seem to work
+
+- one
+- two
+- three
+    1. one
+    1. two
+    1. three
+
+(using nested numbers in bullets) I guess when you start with bullets you have to go all bullets
+
+Go ahead and finish Louisiana to South Dakota with the new formatting. See the states after SD for ideas on how I was doing it. I'm going back and refactoring the Alabama to Kentucky with the new bullets idea. 
