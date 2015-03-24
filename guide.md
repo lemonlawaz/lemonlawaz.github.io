@@ -20,12 +20,14 @@ I've been using mostly bullets (instead of letters and roman numerals), But if I
 
 - Bar
 
-    - A) Foo
+    - A. Foo
 
-    - B) Bar.
+    - B. Bar.
 
         - 1) asdfasdfasdf
         - 2) asdfasdfsadfsa
+
+Numbers can't have the single dot on the right side so I'm using a parenthisis instead. The dot will confuse the md engine
 
 
 btw, doing this doesn't seem to work
