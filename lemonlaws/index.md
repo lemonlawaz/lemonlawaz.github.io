@@ -16,7 +16,7 @@ If you feel like you've suffered enough because of your defective vehicle, pleas
 
 <hr>
 
-*Disclaimer-- The summary of Lemon Laws and links provided are meant for informational/educational purposes and do not constitute legal advice.
+*Disclaimer - The summary of Lemon Laws and links provided are meant for informational/educational purposes and do not constitute legal advice.
 
 
 # Click any State below to view its Lemon Law:
