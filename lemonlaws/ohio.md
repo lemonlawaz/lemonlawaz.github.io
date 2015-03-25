@@ -79,7 +79,9 @@ As used in sections 1345.71 to 1345.77 of the Revised Code:
 
     - The manufacturer provides the same express warranty that was provided to the original purchaser, except that the term of the warranty shall be only for twelve thousand miles or twelve months after the date of resale, whichever is earlier; 
 
-    - The manufacturer provides to the consumer, either directly or through its agent or its authorized dealer, and prior to obtaining the signature of the consumer on any document, a written statement on a separate piece of paper, in ten-point type, all capital letters, in substantially the following form: <br> IMPORTANT: THIS VEHICLE WAS RETURNED TO THE MANUFACTURER BECAUSE IT DID NOT CONFORM TO THE MANUFACTURER'S EXPRESS WARRANTY AND THE NONCONFORMITY WAS NOT CURED WITHIN A REASONABLE AMOUNT OF TIME AS PROVIDED BY OHIO LAW. 
+    - The manufacturer provides to the consumer, either directly or through its agent or its authorized dealer, and prior to obtaining the signature of the consumer on any document, a written statement on a separate piece of paper, in ten-point type, all capital letters, in substantially the following form: 
+
+    IMPORTANT: THIS VEHICLE WAS RETURNED TO THE MANUFACTURER BECAUSE IT DID NOT CONFORM TO THE MANUFACTURER'S EXPRESS WARRANTY AND THE NONCONFORMITY WAS NOT CURED WITHIN A REASONABLE AMOUNT OF TIME AS PROVIDED BY OHIO LAW. 
 
     ............... ....................... 
     

@@ -42,7 +42,7 @@ seo: Maryland Lemon Law
 
   - The period of the motor vehicle's first 15,000 miles of operation; or 
 
-  - 15 months following the date of original delivery of the motor vehicle to the consumer. <br>
+  - 15 months following the date of original delivery of the motor vehicle to the consumer.
 
 - This subsection does not extend any manufacturer's express warranty.
 
@@ -156,9 +156,10 @@ seo: Maryland Lemon Law
   
   - 
   
-    - If a dealer, manufacturer, factory branch, or distributor replaces a motor vehicle with a comparable motor vehicle under ? 14-1502(c)(1)(i) of this subtitle, the Motor Vehicle Administration shall allow a credit against the excise tax imposed for the replacement vehicle in the amount of the excise taxes originally paid by the consumer for the returned vehicle, subject to subsection (b) of this section. <br> 
+    - If a dealer, manufacturer, factory branch, or distributor replaces a motor vehicle with a comparable motor vehicle under ? 14-1502(c)(1)(i) of this subtitle, the Motor Vehicle Administration shall allow a credit against the excise tax imposed for the replacement vehicle in the amount of the excise taxes originally paid by the consumer for the returned vehicle, subject to subsection (b) of this section.
   
   - If the excise tax on the replacement vehicle exceeds the credit allowed under subparagraph (i) of this paragraph, the dealer shall collect only that portion of excise tax due; or
+  
   - If the excise tax on the vehicle being replaced exceeds the excise tax on the replacement vehicle, the consumer shall be entitled to recover from the Motor Vehicle Administration the excess of the excise tax paid.
 
 - The excise taxes that a consumer is entitled to recover under this section shall be calculated based on the amount of the purchase price or any portion of the purchase price of the motor vehicle that the dealer, manufacturer, factory branch, or distributor refunds to the consumer. 

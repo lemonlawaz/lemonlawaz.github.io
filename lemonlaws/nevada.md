@@ -30,8 +30,7 @@ seo: Nevada Lemon Law
 
 **Nevada Lemon law NRS 597.620** Submission of claim to manufacturer for replacement or refund according to designated procedure.
 
-- If the manufacturer has established or designated a procedure for settling disputes informally which substantially complies with the provisions of Title 16 of the Code of Federal Regulations, Part 703, a buyer must first submit his claim for replacement of the motor vehicle or for refund of the purchase price under that procedure before bringing any action under NRS 597.630. <br>
-(Added to NRS by 1983, 612)?(Substituted in revision for NRS 598.761)
+- If the manufacturer has established or designated a procedure for settling disputes informally which substantially complies with the provisions of Title 16 of the Code of Federal Regulations, Part 703, a buyer must first submit his claim for replacement of the motor vehicle or for refund of the purchase price under that procedure before bringing any action under NRS 597.630. (Added to NRS by 1983, 612)?(Substituted in revision for NRS 598.761)
 
 **Nevada Lemon law NRS 597.630** Duties of manufacturer if motor vehicle cannot be conformed to express warranties.
 

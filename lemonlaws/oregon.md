@@ -21,7 +21,8 @@ As used in ORS 646.315 to 646.375:
 
 - "Motor vehicle" means a passenger motor vehicle as defined in ORS 801.360 that is sold in this state. <1983 c.469 s1; 1985 c.16 s468; 1987 c.476 s1; 1989 c.171 s 74; 1989 c.202 s1>
 
-**Oregon's Lemon Law 646.325** <br>
+**Oregon's Lemon Law 646.325**
+
 Availability of remedy.
 
 - The remedy under the provisions of ORS 646.315 to 646.375 is available to a consumer if:

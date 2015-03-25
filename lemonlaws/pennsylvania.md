@@ -5,9 +5,12 @@ state: Pennsylvania
 seo: Pennsylvania Lemon Law
 ---
 
-**Title 73, Chapter 28** <br>
-**Trade And Commerce** <br>
-**Automobile Lemon Law** <br>
+**Title 73, Chapter 28** 
+
+**Trade And Commerce** 
+
+**Automobile Lemon Law** 
+
 
 **Pennsylvania Lemon Law 1951 Short title.**
 

@@ -5,11 +5,14 @@ state: Missouri
 seo: Missouri Lemon Law
 ---
 
-**Missouri Lemon law Revised Statutes** <br>
+**Missouri Lemon law Revised Statutes**
+
 **Chapter 407**
 
-**Merchandising Practices** <br>
-**Missouri Lemon law Section 407.560** <br>
+**Merchandising Practices**
+
+**Missouri Lemon law Section 407.560**
+
 **August 28, 2000**
 
 **Missouri Lemon law Definitions.**
@@ -28,17 +31,23 @@ seo: Missouri Lemon Law
   
   - "**New motor vehicle**", any motor vehicle being transferred for the first time from a manufacturer, distributor or new vehicle dealer, which has not been registered or titled in this state or any other state and which is offered for sale, barter or exchange by a dealer who is franchised to sell, barter or exchange that particular make of new motor vehicle. The term "new motor vehicle" shall include only those vehicles propelled by power other than muscular power, but the term shall not include vehicles used as a commercial motor vehicle, off-road vehicles, mopeds, motorcycles or recreational motor vehicles as defined in section 301.010, RSMo, except for the chassis, engine, powertrain and component parts of recreational motor vehicles. The term "new motor vehicle" shall also include demonstrators or lease-purchase vehicles as long as a manufacturer's warranty was issued as a condition of sale.
 
-**Missouri Revised Statutes** <br>
-**Missouri Lemon law Section 407.565** <br>
-**August 28, 2000** <br>
+**Missouri Revised Statutes**
+
+**Missouri Lemon law Section 407.565**
+
+**August 28, 2000**
+
 
 - Report of nonconformity required, when--repairs, duty of manufacturer or agent, when. 
 
 - 407.565. For the purposes of sections 407.560 to 407.579, if a new motor vehicle does not conform to all applicable express warranties, and the consumer reports the nonconformity to the manufacturer, or its agent, during the term of such express warranties, or during the period of one year following the date of original delivery of the new motor vehicle to the consumer, whichever period expires earlier, the manufacturer, or its agent, shall make such repairs as are necessary to conform the new vehicle to such express warranties, notwithstanding the fact that such repairs are made after the expiration of such term or such one-year period.
 
-**Missouri Revised Statutes** <br>
-**Section 407.567** <br>
-**August 28, 2000** <br>
+**Missouri Revised Statutes**
+
+**Section 407.567**
+
+**August 28, 2000**
+
 
 - Replacement of motor vehicle or refund of purchase price, when-- allowance deducted for consumer's use. 
 
@@ -48,8 +57,10 @@ seo: Missouri Lemon Law
   
   - Refunds shall be made to the consumer and lienholder of record, if any, as their interests may appear.
 
-**Missouri Revised Statutes** <br>
-**Missouri Lemon law Section 407.569** <br>
+**Missouri Revised Statutes**
+
+**Missouri Lemon law Section 407.569**
+
 **August 28, 2000**
 
 - Affirmative defenses. 
@@ -64,8 +75,10 @@ seo: Missouri Lemon Law
   
   - Any other affirmative defense allowed by law.
 
-**Missouri Revised Statutes** <br>
-**Missouri Lemon law Section 407.571** <br>
+**Missouri Revised Statutes**
+
+**Missouri Lemon law Section 407.571**
+
 **August 28, 2000**
 
 - Presumptions of nonconformity--exception. 
@@ -76,8 +89,10 @@ seo: Missouri Lemon Law
   
   - The new vehicle is out of service by reason of repair of the nonconformity by the manufacturer, through its authorized dealer or its agents, for a cumulative total of thirty or more working days, exclusive of down time for routine maintenance as prescribed by the manufacturer, since delivery of the new vehicle to the consumer. The thirty-day period may be extended by a period of time during which repair services are not available to the consumer because of conditions beyond the control of the manufacturer or its agents.
 
-**Missouri Revised Statutes** <br>
-**Missouri Lemon law Section 407.573** <br>
+**Missouri Revised Statutes**
+
+**Missouri Lemon law Section 407.573**
+
 **August 28, 2000**
 
 - Warranty extension, when--complaint remedies information to be furnished--notice to manufacturer required--manufacturer's duties, time limitation. 
@@ -90,16 +105,20 @@ seo: Missouri Lemon Law
   
   - Any action brought under sections 407.560 to 407.579 shall be commenced within six months following expiration of the terms, conditions, or limitations of the express warranty, or within eighteen months following the date of original delivery of the new motor vehicle to a consumer, whichever is earlier, or, in the event that a consumer resorts to an informal dispute settlement procedure as provided in sections 407.560 to 407.579, within ninety days following the final action of any panel established pursuant to such procedure.
 
-**Missouri Revised Statutes** <br>
-**Missouri Lemon law Section 407.575** <br>
+**Missouri Revised Statutes**
+
+**Missouri Lemon law Section 407.575**
+
 **August 28, 2000**
 
 - Manufacturer with approved settlement procedure, consumer's duty. 
 
 - 407.575. If a manufacturer has established an informal dispute settlement procedure which complies in all respects with the provisions of the code of Federal Regulations, 16 C.F.R. 703, provisions of sections 407.560 to 407.579 concerning refunds or replacements shall not apply to any consumer who has not first resorted to such procedure.
 
-**Missouri Revised Statutes** <br>
-**Missouri Lemon law Section 407.577** <br>
+**Missouri Revised Statutes**
+
+**Missouri Lemon law Section 407.577**
+
 **August 28, 2000**
 
 - Court action by consumer, costs, expenses, attorney's fees, how paid. 
@@ -110,8 +129,10 @@ seo: Missouri Lemon Law
   
   - If any claim by a consumer under sections 407.560 to 407.579 is found by a court to have been filed in bad faith, or solely for the purpose of harassment, or in the absence of a substantial justifiable issue of either law or fact raised by the consumer, or for which the final recovery is not at least ten percent greater than any settlement offer made by the manufacturer prior to the commencement of the court action, then the consumer shall be liable for all costs and reasonable attorney's fees incurred by the manufacturer, or its agent, as a direct result of the bad faith claim.
 
-**Missouri Revised Statutes** <br>
-**Missouri Lemon law Section 407.579** <br>
+**Missouri Revised Statutes**
+
+**Missouri Lemon law Section 407.579**
+
 **August 28, 2000**
 
 - Consumer's right to other remedies--law to apply, when. 

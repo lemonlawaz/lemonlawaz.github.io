@@ -5,7 +5,8 @@ state: North Carolina
 seo: North Carolina Lemon Law
 ---
 
-**North Carolina Lemon law - Chapter 90, Section 7N** <br>
+**North Carolina Lemon law - Chapter 90, Section 7N**
+
 **New Motor Vehicles Warranties Act**
 
 **North Carolina Lemon law 20-351.** Purpose.

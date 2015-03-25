@@ -5,7 +5,8 @@ state: South Dakota
 seo: South Dakota Lemon Law
 ---
 
-**Title 32, Chapter 6D** <br>
+**Title 32, Chapter 6D**
+
 **Manufacturer's Warranty**
 
 **32-6D-1 Definitions.**
