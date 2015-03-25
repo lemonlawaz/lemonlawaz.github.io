@@ -11,7 +11,7 @@ seo: New Mexico Lemon Law
 
 This act [57-16A-1 to 57-16A-9 NMSA 1978] may be cited as the "Motor Vehicle Quality Assurance Act". 
 
-History: Laws 1985, ch. 220, ? 1. 
+History: Laws 1985, ch. 220, 1. 
 
 **New Mexico Lemon law 57-16A-2** Definitions (1995 Repl.)
 
@@ -37,7 +37,7 @@ History: Laws 1985, ch. 220, 2.
   >1. the same uncorrected nonconformity has been subject to repair four or more times by the manufacturer or its agents or authorized dealers within the express warranty term or during the period of one year following the date of original delivery of the motor vehicle to a consumer, whichever is the earlier date, but the nonconformity continues to exist; or
   >2. the vehicle is in the possession of the manufacturer, its agent or authorized dealer for repair a cumulative total of thirty or more business days during such term or during such period whichever is the earlier date, exclusive of down time for routine maintenance as prescribed by the manufacturer. The term of an express warranty, such one-year period and such thirty-day period shall be extended by any period of time during which repair services are not available to the consumer because of war, invasion, strike, fire, flood or other natural disaster. In no event shall the presumption herein provided apply against a manufacturer unless the manufacturer has received prior direct written notification from or on behalf of the consumer and an opportunity to cure the defect alleged. The manufacturer shall provide written notice and instruction to the consumer, either in the warranty or a separate notice, of the obligation to file this written notification before invoking the remedies available pursuant to the Motor Vehicle Quality Assurance Act [57-16A-1 to 57-16A-9 NMSA 1978].
 
-History: Laws 1985, ch. 220, ? 3. 
+History: Laws 1985, ch. 220, 3. 
 
 **New Mexico Lemon law 57-16A-4** Affirmative defenses (1995 Repl.)
 
@@ -51,25 +51,25 @@ History: Laws 1985, ch. 220, ? 3.
 
   >d. any other affirmative defense allowed by law.
 
-History: Laws 1985, ch. 220, ? 4. 
+History: Laws 1985, ch. 220, 4. 
 
 **New Mexico Lemon law 57-16A-5** Limitation of remedy (1995 Repl.)
 
 >Any consumer who seeks enforcement of the provisions of the Motor Vehicle Quality Assurance Act [57-16A-1 to 57-16A-9 NMSA 1978] shall be foreclosed from pursuing any Uniform Commercial Code remedy set forth in Sections 55-2-602 through 55-2-608 NMSA 1978.
 
-History: Laws 1985, ch. 220, ? 5. 
+History: Laws 1985, ch. 220, 5. 
 
 **New Mexico Lemon law 57-16A-6** Informal dispute resolution (1995 Repl.)
 
 >If a manufacturer has established or participates in a fair and impartial informal dispute settlement procedure which substantially complies with the substantive requirements of Title 16, Part 703 of the Code of Federal Regulations, the provisions of Subsection B of Section 3 [57-16A-3B NMSA 1978] of the Motor Vehicle Quality Assurance Act concerning refunds or replacement shall not apply to any consumer who has not first resorted to that procedure. The state attorney general may investigate and determine that the informal dispute settlement procedure is fair and impartial and conforms with the requirements of Title 16, Part 703 of the Code of Federal Regulations.
 
-History: Laws 1985, ch. 220, ? 6. 
+History: Laws 1985, ch. 220, 6. 
 
 **New Mexico Lemon law 57-16A-7** Resale of returned motor vehicle (1995 Repl.)
 
 >No motor vehicle which has not been properly repaired pursuant to the provisions of Subsection B of Section 3 [57-16A-3 NMSA 1978] of the Motor Vehicle Quality Assurance Act, or pursuant to a similar law of another state, may be resold in New Mexico unless the manufacturer provides full written disclosure of the reason for the return to any prospective buyer.
 
-History: Laws 1985, ch. 220, ? 7. 
+History: Laws 1985, ch. 220, 7. 
 
 **New Mexico Lemon law 57-16A-8** Limitation of action (1995 Repl.)
 
