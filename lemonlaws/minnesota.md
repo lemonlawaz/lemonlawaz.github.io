@@ -27,7 +27,7 @@ seo: Minnesota Lemon Law
 
 **Minnesota Lemon law Subd. 2.** Manufacturer's duty to repair. 
 
-If a new motor vehicle does not conform to all applicable express warranties, and the consumer reports the nonconformity to the manufacturer, its agent, or its authorized dealer during the term of the applicable express warranties or during the period of two years following the date of original delivery of the new motor vehicle to a consumer, whichever is the earlier date, the manufacturer, its agent, or its authorized dealer shall make the repairs necessary to conform the vehicle to the applicable express warranties, notwithstanding the fact that the repairs are made after the expiration of the warranty term or the two-year period.
+- If a new motor vehicle does not conform to all applicable express warranties, and the consumer reports the nonconformity to the manufacturer, its agent, or its authorized dealer during the term of the applicable express warranties or during the period of two years following the date of original delivery of the new motor vehicle to a consumer, whichever is the earlier date, the manufacturer, its agent, or its authorized dealer shall make the repairs necessary to conform the vehicle to the applicable express warranties, notwithstanding the fact that the repairs are made after the expiration of the warranty term or the two-year period.
 
 **Minnesota Lemon law Subd. 3.** Manufacturer's duty to refund or replace. 
 
@@ -49,7 +49,7 @@ If a new motor vehicle does not conform to all applicable express warranties, an
 
 **Minnesota Lemon law Subd. 4.** Manufacturer's duty to consumers with leased vehicles. 
 
-A consumer who leases a new motor vehicle has the same rights against the manufacturer under this section as a consumer who purchases a new motor vehicle, except that, if it is determined that the manufacturer must accept return of the consumer's leased vehicle pursuant to subdivision 3, then the consumer lessee is not entitled to a replacement vehicle, but is entitled only to a refund as provided in this subdivision. In such a case, the consumer's leased vehicle shall be returned to the manufacturer and the consumer's written lease with the motor vehicle lessor must be terminated. The manufacturer shall then provide the consumer with a full refund of the amount actually paid by the consumer on the written lease, including all additional charges set forth in subdivision 3, if actually paid by the consumer, less a reasonable allowance for use by the consumer as set forth in subdivision 3. The manufacturer shall provide the motor vehicle lessor with a full refund of the vehicle's original purchase price plus any early termination costs, not to exceed 15 percent of the vehicle's original purchase price, less the amount actually paid by the consumer on the written lease.
+- A consumer who leases a new motor vehicle has the same rights against the manufacturer under this section as a consumer who purchases a new motor vehicle, except that, if it is determined that the manufacturer must accept return of the consumer's leased vehicle pursuant to subdivision 3, then the consumer lessee is not entitled to a replacement vehicle, but is entitled only to a refund as provided in this subdivision. In such a case, the consumer's leased vehicle shall be returned to the manufacturer and the consumer's written lease with the motor vehicle lessor must be terminated. The manufacturer shall then provide the consumer with a full refund of the amount actually paid by the consumer on the written lease, including all additional charges set forth in subdivision 3, if actually paid by the consumer, less a reasonable allowance for use by the consumer as set forth in subdivision 3. The manufacturer shall provide the motor vehicle lessor with a full refund of the vehicle's original purchase price plus any early termination costs, not to exceed 15 percent of the vehicle's original purchase price, less the amount actually paid by the consumer on the written lease.
 
 **Minnesota Lemon law Subd. 5.** Resale or re-lease of returned motor vehicle. 
 
@@ -59,7 +59,7 @@ A consumer who leases a new motor vehicle has the same rights against the manufa
 
   - the manufacturer provides the consumer with a written statement on a separate piece of paper, in 10-point all capital type, in substantially the following form: "IMPORTANT: THIS VEHICLE WAS RETURNED TO THE MANUFACTURER BECAUSE IT DID NOT CONFORM TO THE MANUFACTURER'S EXPRESS WARRANTY AND THE NONCONFORMITY WAS NOT CURED WITHIN A REASONABLE TIME AS PROVIDED BY MINNESOTA LAW."
 
-The provisions of this section apply to the resold or re-leased motor vehicle for full term of the warranty required under this subdivision.
+- The provisions of this section apply to the resold or re-leased motor vehicle for full term of the warranty required under this subdivision.
 
 - Notwithstanding the provisions of paragraph (a), if a new motor vehicle has been returned under the provisions of subdivision 3 or a similar statute of another state because of a nonconformity resulting in a complete failure of the braking or steering system of the motor vehicle likely to cause death or serious bodily injury if the vehicle was driven, the motor vehicle may not be resold in this state.
 
@@ -91,36 +91,40 @@ The provisions of this section apply to the resold or re-leased motor vehicle fo
 
 **Minnesota Lemon law Subd. 7.** Effect and admissibility of decision by informal dispute settlement mechanism. 
 
-The decision issued in an informal dispute settlement mechanism required by this section is nonbinding on the parties involved, unless otherwise agreed by the parties. Any party, upon application, may remove the decision to district court for a trial de novo. If the manufacturer is aggrieved by the decision of the informal dispute settlement mechanism, an application to remove the decision must be filed in the district court within 30 days after the date the decision is received by the parties. If the application to remove is not made within 30 days, then the district court shall, upon application of a party, issue an order confirming the decision. A written decision issued by an informal dispute settlement mechanism, and any written findings upon which the decision is based, are admissible as nonbinding evidence in any subsequent legal action and are not subject to further foundation requirements.
+- The decision issued in an informal dispute settlement mechanism required by this section is nonbinding on the parties involved, unless otherwise agreed by the parties. Any party, upon application, may remove the decision to district court for a trial de novo. If the manufacturer is aggrieved by the decision of the informal dispute settlement mechanism, an application to remove the decision must be filed in the district court within 30 days after the date the decision is received by the parties. If the application to remove is not made within 30 days, then the district court shall, upon application of a party, issue an order confirming the decision. A written decision issued by an informal dispute settlement mechanism, and any written findings upon which the decision is based, are admissible as nonbinding evidence in any subsequent legal action and are not subject to further foundation requirements.
 
 **Minnesota Lemon law Subd. 8.** Treble damages for bad faith appeal of decision. 
 
-If the district court finds that a party has removed a decision of an informal dispute settlement mechanism in bad faith, by asserting a claim or defense that is frivolous and costly to the other party, or by asserting an unfounded position solely to delay recovery by the other party, then the court shall award to the prevailing party three times the actual damages sustained, together with costs and disbursements, including reasonable attorney's fees.
+- If the district court finds that a party has removed a decision of an informal dispute settlement mechanism in bad faith, by asserting a claim or defense that is frivolous and costly to the other party, or by asserting an unfounded position solely to delay recovery by the other party, then the court shall award to the prevailing party three times the actual damages sustained, together with costs and disbursements, including reasonable attorney's fees.
 
 **Minnesota Lemon law Subd. 9.** Civil remedy. 
 
-Any consumer injured by a violation of this section may bring a civil action to enforce this section and recover costs and disbursements, including reasonable attorney's fees incurred in the civil action. In addition to the remedies provided herein, the attorney general may bring an action pursuant to section 8.31 against any manufacturer for violation of this section.
+- Any consumer injured by a violation of this section may bring a civil action to enforce this section and recover costs and disbursements, including reasonable attorney's fees incurred in the civil action. In addition to the remedies provided herein, the attorney general may bring an action pursuant to section 8.31 against any manufacturer for violation of this section.
 
 **Minnesota Lemon law Subd. 10.** Limitation on actions. 
 
-A civil action brought under this section must be commenced within three years of the date of original delivery of the new motor vehicle to a consumer; except that, if the consumer applies to an informal dispute settlement mechanism within three years of the date of original delivery of a new motor vehicle to a consumer, and if the consumer is aggrieved by the decision of the informal dispute settlement mechanism, then any civil action brought under this section must be commenced within six months after the date of the final decision by the mechanism.
+- A civil action brought under this section must be commenced within three years of the date of original delivery of the new motor vehicle to a consumer; except that, if the consumer applies to an informal dispute settlement mechanism within three years of the date of original delivery of a new motor vehicle to a consumer, and if the consumer is aggrieved by the decision of the informal dispute settlement mechanism, then any civil action brought under this section must be commenced within six months after the date of the final decision by the mechanism.
 
 **Minnesota Lemon law Subd. 11.** Remedy nonexclusive. 
 
-Nothing in this section limits the rights or remedies which are otherwise available to a consumer under any other law.
+- Nothing in this section limits the rights or remedies which are otherwise available to a consumer under any other law.
 
 **Minnesota Lemon law Subd. 12.** Disclosure requirement. 
 
-In addition to any investigative powers authorized by law, the attorney general may inspect the records of the informal dispute settlement mechanism upon reasonable notice, during regular business hours, and may make available to the public information about the operation of the mechanism, but data on an individual may not be disclosed without the prior consent of the individual.
+- In addition to any investigative powers authorized by law, the attorney general may inspect the records of the informal dispute settlement mechanism upon reasonable notice, during regular business hours, and may make available to the public information about the operation of the mechanism, but data on an individual may not be disclosed without the prior consent of the individual.
 
 **Minnesota Lemon law Subd. 13.** Dealer liability. 
 
-Nothing in this section imposes liability on a dealer or creates an additional cause of action by a consumer against a dealer, except for written express warranties made by the dealer apart from the manufacturer's warranties. The manufacturer shall not charge back or require reimbursement by the dealer for any costs, including, but not limited to, any refunds or vehicle replacements, incurred by the manufacturer arising out of this section, unless there is evidence that the related repairs had not been carried out by the dealer in a timely manner or in a manner substantially consistent with the manufacturer's published instructions.
+- Nothing in this section imposes liability on a dealer or creates an additional cause of action by a consumer against a dealer, except for written express warranties made by the dealer apart from the manufacturer's warranties. The manufacturer shall not charge back or require reimbursement by the dealer for any costs, including, but not limited to, any refunds or vehicle replacements, incurred by the manufacturer arising out of this section, unless there is evidence that the related repairs had not been carried out by the dealer in a timely manner or in a manner substantially consistent with the manufacturer's published instructions.
 
-Minnesota's Used Car Lemon Law provides for the following;
-
-- It applies to all cars, pick up trucks and vans that cost more than $3,000, are less then 8 years old and have less than 75,000 miles on them and the car hasn?t been previously salvaged.
-- The dealer must give a warranty of a certain duration depending on the miles of the car at the time sold.
-- The dealer must repair or replace the part that is defective or at the dealer?s election refund the purchase price to the consumer.
-- If a repair is performed the dealer must continue to warrant the repair for the original duration of the first warranty.
-- Attorney's fees are paid by the defendant.
+- Minnesota's Used Car Lemon Law provides for the following;
+	
+	- It applies to all cars, pick up trucks and vans that cost more than $3,000, are less then 8 years old and have less than 75,000 miles on them and the car hasn?t been previously salvaged.
+	
+	- The dealer must give a warranty of a certain duration depending on the miles of the car at the time sold.
+	
+	- The dealer must repair or replace the part that is defective or at the dealer?s election refund the purchase price to the consumer.
+	
+	- If a repair is performed the dealer must continue to warrant the repair for the original duration of the first warranty.
+	
+	- Attorney's fees are paid by the defendant.
