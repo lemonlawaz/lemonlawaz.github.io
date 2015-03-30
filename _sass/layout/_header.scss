@@ -14,12 +14,21 @@ header {
     &::before {
         content: '';
         position: absolute;
-        top: -54px;
         left: 0px;
         display: block;
         width: 494px;
         height: 85px;
         background: transparent url('/images/logo.png') no-repeat left top;
+        
+        // Small Viewport
+        background-size: 350px;
+        top: -40px;
+
+        // Large Viewport
+        @include wider-than($breakpoint) {
+            background-size: 494px;
+            top: -54px;
+        }
 
     }
 }
@@ -38,17 +47,22 @@ header {
     }
 
     > div:first-child {
-        float: left;
-        width: 40%;
-        font-size: 1.5em;
-        background-color: $blue;
-        margin-right: $gutter;
+        display: none;
+        
+        @include wider-than($breakpoint) {
+            display: block;
+            float: left;
+            width: 40%;
+            font-size: 1.5em;
+            background-color: $blue;
+            margin-right: $gutter;
+        }
     }
 
     > div:last-child {
-        overflow: hidden;
+        overflow: hidden; // For when it's sibling is float left
         background-color: #00f;
-        font-size: 1.6em;
+        font-size: 1em;
         line-height: 30px;
         padding-left: 60px;
         padding-right: 60px;
@@ -58,7 +72,11 @@ header {
             text-decoration: underline;
         }
         .phone-words, .phone { display: block; }
-        .phone { font-size: 0.6em; }
+
+        @include wider-than($breakpoint) {
+            font-size: 1.6em;
+            .phone { font-size: 0.6em; }
+        }
 
     }
 }

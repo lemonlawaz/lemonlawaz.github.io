@@ -10,27 +10,36 @@ main {
         position: relative;
 
         h1 {
-            position: absolute;
-            top: 0;
-            right: 0;
             font-size: 1em;
+            
+            @include wider-than(700px) {
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
         }
 
         h2 {
             font-size: 1.7em;
             border-bottom: 1px solid #888;
         }
+
     }
 
     img {
-        max-width: 350px;
-        float: left;
-        margin-right: 20px;
-        &.right {
-            float: right;
-            margin-right: 0;
-            margin-left: 20px;
+        width: 100%;
+
+        @include wider-than(700px) {
+            max-width: 350px;
+            float: left;
+            margin-right: 20px;
+            &.right {
+                float: right;
+                margin-right: 0;
+                margin-left: 20px;
+            }
         }
+
     }
 
     p {
@@ -43,15 +52,17 @@ main {
     }
 
     ul.list-states {
-        list-style-type: disc;
-        -webkit-column-count: 3;
-        -moz-column-count: 3;
-        column-count: 3;
-        -webkit-column-gutter: 30px;
-        -moz-column-gutter: 30px;
-        column-gutter: 30px;
-        li {
-            margin-left: 20px;
+        @include wider-than($breakpoint) {
+            list-style-type: disc;
+            -webkit-column-count: 3;
+            -moz-column-count: 3;
+            column-count: 3;
+            -webkit-column-gutter: 30px;
+            -moz-column-gutter: 30px;
+            column-gutter: 30px;
+            li {
+                margin-left: 20px;
+            }
         }
     }
 

@@ -1,5 +1,10 @@
 .page {
-    width: 800px;
-    margin: 0 auto;
     padding-bottom: $gutter;
+    padding-left: $gutter;
+    padding-right: $gutter;
+
+    @include wider-than(850px) {
+        width: 800px;
+        margin: 0 auto;
+    }
 }
