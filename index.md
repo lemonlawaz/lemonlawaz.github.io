@@ -6,6 +6,8 @@ seo: Lemon Law
 
 <img src="/images/scales.jpg">
 
+[Google](http://google.com)
+
 Pryor, Ramirez & Amar, LLC is dedicated to providing the highest quality legal services and protection to consumers who have the misfortune of purchasing defective vehicles ("Lemons") through the use of State and federal Lemon Laws.* Our Firm has helped 1000's of  consumers in Arizona obtain cash compensation, replacement vehicles, or refunds for their defective vehicles; **without any out of pocket costs.**
 
 With the diligent representation of our experienced attorneys, purchasers saddled with troublesome vehicles i.e. "Lemons" are empowered to obtain recovery from manufacturers/warrantors under the Lemon Law and other applicable warranty laws. Often **such recovery can be obtained out of court with minimal time commitment** (see our [FAQs page](/faqs.html)) and without any costs. After all, you deserve the new car you paid for!
