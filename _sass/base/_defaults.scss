@@ -25,6 +25,7 @@ html {
 
 body {
     background: radial-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('/images/bg.jpg');
+    -webkit-background-size: cover, cover;
     background-size: cover, cover;
     background-attachment: fixed, fixed;
 }
