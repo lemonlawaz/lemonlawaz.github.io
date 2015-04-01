@@ -1,0 +1,20 @@
+{
+  "name": "lemonlawaz",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lemonlawaz/lemonlawaz.github.io",
+  "authors": [
+    "Brad Westfall <brad@azpixels.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick.js": "~1.4.1",
+    "jquery": "~2.1.3"
+  }
+}
