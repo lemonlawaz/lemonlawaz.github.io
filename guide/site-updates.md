@@ -83,3 +83,13 @@ The above markdown will produce:
 - Two
   - Sub One
   - Sub Two
+
+For links type of the work you want to click on in square-brackets followed by the URL in parenthesis:
+
+```markdown
+[Google](http://google.com)
+```
+
+Which will produce
+
+[Google](http://google.com)
