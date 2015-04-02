@@ -17,6 +17,8 @@ Fax: 1-866-663-3497
 228 South Fourth Street, First Floor <br>
 Las Vegas, NV 89101-5705 
  
+<div style="clear: both"></div>
+
 Luis F. Ramirez, Esq. - [lramirez@pryorandamar.com](mailto:lramirez@pryorandamar.com) <br>
 Shalev Amar, Esq. - [samar@pryorandamar.com](mailto:samar@pryorandamar.com) <br>
 Craig W. Drummond, Esq. - [craig@drummondfirm.com](mailto:craig@drummondfirm.com) <br>
