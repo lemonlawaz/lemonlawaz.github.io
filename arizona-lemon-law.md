@@ -20,6 +20,10 @@ Under the Arizona Lemon Law you may be entitled to a refund (minus a reasonable 
 
 If you feel like you've suffered enough because of your defective vehicle please submit the information requested in our [FREE CASE REVIEW](/lemon-law-free-case-review.html) page.
 
-<hr>
+<div class="disclaimer">
+    
+    <p>
+    The summary of the law provided is meant for informational and educational purposes and does not constitute legal advice. Please contact Pryor, Ramirez & Amar, LLC for additional pertinent information and details about your rights.
+    </p>
 
-*Disclaimer--The summary of the law provided is meant for informational and educational purposes and does not constitute legal advice. Please contact Pryor, Ramirez & Amar, LLC for additional pertinent information and details about your rights.
+</div>

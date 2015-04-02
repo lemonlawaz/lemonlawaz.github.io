@@ -59,3 +59,16 @@ em {
     font-style: italic;
 }
 
+/**
+ * Disclaimers
+ */
+
+.disclaimer {
+    margin-top: 20px;
+    border-top: 1px solid #7994CB;
+    font-size: 0.7em;
+
+    p::before {
+        content: '* ';
+    }
+}

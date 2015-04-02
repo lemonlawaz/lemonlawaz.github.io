@@ -20,8 +20,15 @@ Pryor, Ramirez & Amar, LLC also represents purchasers of defective RVs/Motor Hom
 
 Our Firm likewise assists consumers who have been defrauded by motor vehicle dealerships. Fraudulent practices by dealers are numerous and include selling consumers automobiles with undisclosed prior accident damage, undisclosed severe defects, and/or odometer rollbacks.  Moreover, used car dealers often engage in non-disclosure of implied warranties required by the Lemon Law, in violations of implied warranties, and/or in non-disclosure of a vehicle’s status as a Lemon Law Buyback.  If you feel you have been the victim of consumer fraud, please review our Fraud page and submit the information requested in our [FREE CASE REVIEW](/lemon-law-free-case-review.html) page.*
 
-<hr>
+<div class="disclaimer">
+    
+    <p>
+    Consumers in Arizona can obtain relief via the Arizona Lemon Law, Magnuson-Moss Warranty Act, State warranty common law and/or Arizona's version of the Uniform Commercial Code.
+    </p>
 
-*Consumers in Arizona can obtain relief via the Arizona Lemon Law, Magnuson-Moss Warranty Act, State warranty common law and/or Arizona's version of the Uniform Commercial Code.
+    <p>
+    Although our case review is free, submission of the case review form is not a guarantee that the Firm can represent you.
+    </p>
 
-*Although our case review is free, submission of the case review form is not a guarantee that the Firm can represent you.
+</div>
+

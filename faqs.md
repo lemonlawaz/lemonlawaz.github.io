@@ -62,6 +62,11 @@ Engine, transmission, suspension, tires, brakes, electrical system, air conditio
 
 Run a Carfax, take the vehicle to an independent repair shop for a written evaluation, then contact Pryor, Ramirez & Amar, LLC.
 
-<hr>
+<div class="disclaimer">
+    
+    <p>
+    The above FAQs are for informational/educational purposes and do not constitute legal advice. Although our case review is free, please be advised court filing and service fees may be required if a case is pursued in court. Please contact Pryor, Ramirez & Amar, LLC for additional, pertinent information and details about your rights.
+    </p>
 
-*Disclaimer: The above FAQs are for informational/educational purposes and do not constitute legal advice. Although our case review is free, please be advised court filing and service fees may be required if a case is pursued in court. Please contact Pryor, Ramirez & Amar, LLC for additional, pertinent information and details about your rights.
+</div>
+

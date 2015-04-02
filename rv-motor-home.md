@@ -16,6 +16,11 @@ Fortunately, a majority of RV/Motor Home cases are settled out of court without 
 
 Please make a submission on our [FREE CASE REVIEW](/lemon-law-free-case-review.html) page and we will contact you to discuss your RV/Motor Home case. If we cannot assist you or do not practice where you reside, we may be able to help you locate counsel.*
 
-<hr>
 
-*Disclaimer: The above discussion and summary of the law is for informational purposes and should not be construed as legal advice. Please contact Pryor, Ramirez & Amar, LLC for additional details.
+<div class="disclaimer">
+
+    <p>
+    The above discussion and summary of the law is for informational purposes and should not be construed as legal advice. Please contact Pryor, Ramirez & Amar, LLC for additional details.
+    </p>
+    
+</div>

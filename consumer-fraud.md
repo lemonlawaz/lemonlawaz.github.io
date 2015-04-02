@@ -24,6 +24,10 @@ Have you found out that your vehicle was previously a rental car and that this f
 
 #IF YOU FEEL THAT YOU ARE THE VICTIM OF FRAUD PLEASE CONTACT PRYOR, RAMIREZ & AMAR, LLC!
 
-<hr>
+<div class="disclaimer">
+    
+    <p>
+        The above summary of Arizona Fraud Law is meant for informational/educational purposes only and does not constitute legal advice. Although our case review is free, please be advised certain fees may be required if a case is pursued. Please contact Pryor, Ramirez & Amar, LLC for additional pertinent information and details about your rights.
+    </p>
 
-*Disclaimer--The above summary of Arizona Fraud Law is meant for informational/educational purposes only and does not constitue legal advice. Although our case review is free, please be advised certain fees may be required if a case is pursued. Please contact Pryor, Ramirez & Amar, LLC for additional pertinent information and details about your rights.
+</div>
