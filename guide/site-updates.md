@@ -40,7 +40,7 @@ These instructions will show you how to make basic edits
 
 When you write paragraph information, make sure each paragraph has a blank space around it:
 
-```md
+```markdown
 paragraph one
 
 paragraph two
@@ -52,7 +52,7 @@ Without the blank space, the two paragraphs will be merged into one.
 
 If you want headings, use a pound sign `#` in front of the heading like this
 
-```md
+```markdown
 # Here is the heading
 
 Here is the paragraph
@@ -62,7 +62,7 @@ Here is the paragraph
 
 To make text bold use two asterisks around the text:
 
-```md
+```markdown
 Here is some non-bold text, **Here is some bold text**
 ```
 
@@ -70,7 +70,7 @@ Here is some non-bold text, **Here is some bold text**
 
 Use hyphens to make bullets. Put a tab before a hyphen to make nested bullets:
 
-```md
+```markdown
 - One
 - Two
   - Sub One
