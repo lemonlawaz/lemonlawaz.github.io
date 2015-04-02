@@ -24,11 +24,9 @@ The state-specific files are located in the `lemonlaws` folder. Any file named "
 
 ### View a file
 
-When you view a file you'll get a page that looks like this:
+When you view a file you'll get a page that looks like this image. Click the pencil icon to edit the file.
 
 <img src="view-file.png">
-
-Click the pencil icon to edit the file.
 
 When you're done editing, click the "Commit Changes" button at the bottom of the page:
 
