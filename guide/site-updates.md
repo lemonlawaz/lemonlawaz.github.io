@@ -34,4 +34,52 @@ When you're done editing, click the "Commit Changes" button at the bottom of the
 
 # Using Markdown
 
-When you make edits
+These instructions will show you how to make basic edits
+
+## Paragraphs
+
+When you write paragraph information, make sure each paragraph has a blank space around it:
+
+```md
+paragraph one
+
+paragraph two
+```
+
+Without the blank space, the two paragraphs will be merged into one.
+
+## Headings
+
+If you want headings, use a pound sign `#` in front of the heading like this
+
+```md
+# Here is the heading
+
+Here is the paragraph
+```
+
+## Stylized Text
+
+To make text bold use two asterisks around the text:
+
+```md
+Here is some non-bold text, **Here is some bold text**
+```
+
+## Bullets
+
+Use hyphens to make bullets. Put a tab before a hyphen to make nested bullets:
+
+```md
+- One
+- Two
+  - Sub One
+  - Sub Two
+```
+
+The above markdown will produce:
+
+- One
+- Two
+  - Sub One
+  - Sub Two
