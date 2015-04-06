@@ -47,6 +47,7 @@ header {
     position: relative;
 
     &.one {
+        background: -ms-linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
         background: -webkit-linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
         background: linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
     }
