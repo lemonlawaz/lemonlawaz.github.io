@@ -48,9 +48,9 @@ header {
 
     &.one {
         background-image: url('/images/slide1.jpg');
-        background: -ms-linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
-        background: -webkit-linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
-        background: linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
+        background: -ms-linear-gradient(left, red, transparent), url('/images/slide1.jpg');
+        background: -webkit-linear-gradient(left, red, transparent), url('/images/slide1.jpg');
+        background: linear-gradient(left, red, transparent), url('/images/slide1.jpg');
     }
 
     &.two {
