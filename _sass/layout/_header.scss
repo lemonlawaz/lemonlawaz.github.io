@@ -85,11 +85,10 @@ header {
 
 }
 
-.html.no-textshadow .slick-slide {
-    &.one, &.two, &.three {
-        span {
-            background-color: red;
-        }
+// Modernizr
+html.no-textshadow .slick-slide {
+    span {
+        background-color: red;
     }
 }
 
