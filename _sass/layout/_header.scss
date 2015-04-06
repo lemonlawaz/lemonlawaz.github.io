@@ -78,7 +78,7 @@ header {
             bottom: 20px;
             font-size: 26pt;
             @include wider-than($breakpoint) {
-                width: 50%;
+                max-width: 50%;
             }
         }
     }
