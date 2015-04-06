@@ -87,8 +87,10 @@ header {
 
 // Modernizr
 html.no-textshadow .slick-slide {
-    span {
-        background-color: rgba(0,0,0,0.3);
+    &.one, &.two, &.three {
+        span {
+            background-color: rgba(0,0,0,0.3);
+        }
     }
 }
 
