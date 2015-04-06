@@ -48,9 +48,8 @@ header {
 
     &.one {
         background-image: url('/images/slide1.jpg');
-        background: -ms-linear-gradient(left, red, transparent), url('/images/slide1.jpg');
-        background: -webkit-linear-gradient(left, red, transparent), url('/images/slide1.jpg');
-        background: linear-gradient(left, red, transparent), url('/images/slide1.jpg');
+        background: -webkit-linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
+        background: linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
     }
 
     &.two {
@@ -72,6 +71,7 @@ header {
     &.one, &.two, &.three {
         span {
             color: #fff;
+            text-shadow: 1px 1px 2px #000;
             display: block;
             position: absolute;
             left: 20px;
