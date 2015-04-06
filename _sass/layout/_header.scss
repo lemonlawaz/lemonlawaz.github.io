@@ -85,6 +85,14 @@ header {
 
 }
 
+.html.no-textshadow .slick-slide {
+    &.one, &.two, &.three {
+        span {
+            background-color: red;
+        }
+    }
+}
+
 .hero {
     @extend %clearfix;
     color: #fff;
