@@ -47,17 +47,20 @@ header {
     position: relative;
 
     &.one {
+        background-image: url('/images/slide1.jpg');
         background: -ms-linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
         background: -webkit-linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
         background: linear-gradient(left, $blue, transparent), url('/images/slide1.jpg');
     }
 
     &.two {
+        background-image: url('/images/slide2.jpg');
         background: -webkit-linear-gradient(left, $blue, transparent), url('/images/slide2.jpg');
         background: linear-gradient(left, $blue, transparent), url('/images/slide2.jpg');
     }
 
     &.three {
+        background-image: url('/images/slide3.jpg');
         background: -webkit-linear-gradient(left, $blue, transparent), url('/images/slide3.jpg');
         background: linear-gradient(left, $blue, transparent), url('/images/slide3.jpg');
     }
