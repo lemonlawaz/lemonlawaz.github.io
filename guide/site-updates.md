@@ -24,11 +24,9 @@ The state-specific files are located in the `lemonlaws` folder. Any file named "
 
 ### View a file
 
-When you view a file you'll get a page that looks like this:
+When you view a file you'll get a page that looks like this image. Click the pencil icon to edit the file.
 
 <img src="view-file.png">
-
-Click the pencil icon to edit the file.
 
 When you're done editing, click the "Commit Changes" button at the bottom of the page:
 
@@ -36,4 +34,62 @@ When you're done editing, click the "Commit Changes" button at the bottom of the
 
 # Using Markdown
 
-When you make edits
+These instructions will show you how to make basic edits
+
+## Paragraphs
+
+When you write paragraph information, make sure each paragraph has a blank space around it:
+
+```markdown
+paragraph one
+
+paragraph two
+```
+
+Without the blank space, the two paragraphs will be merged into one.
+
+## Headings
+
+If you want headings, use a pound sign `#` in front of the heading like this
+
+```markdown
+# Here is the heading
+
+Here is the paragraph
+```
+
+## Stylized Text
+
+To make text bold use two asterisks around the text:
+
+```markdown
+Here is some non-bold text, **Here is some bold text**
+```
+
+## Bullets
+
+Use hyphens to make bullets. Put a tab before a hyphen to make nested bullets:
+
+```markdown
+- One
+- Two
+  - Sub One
+  - Sub Two
+```
+
+The above markdown will produce:
+
+- One
+- Two
+  - Sub One
+  - Sub Two
+
+For links type of the work you want to click on in square-brackets followed by the URL in parenthesis:
+
+```markdown
+[Google](http://google.com)
+```
+
+Which will produce
+
+[Google](http://google.com)
