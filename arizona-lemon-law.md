@@ -2,6 +2,7 @@
 layout: page
 title: Arizona Lemon Law
 seo: Arizona Lemon Law
+permalink: /arizona-lemon-law
 ---
 
 <img src="/images/broke3.jpg" class="right">
