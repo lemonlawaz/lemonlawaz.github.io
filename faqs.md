@@ -8,9 +8,9 @@ seo: Customer Lemon Law FAQs
 
 #Do I have to pay attorneys' fees? 
 
-No. There are no out of pocket attorneys' fees to the consumer. Attorneys' fees are requested from the manufacturer as part of any settlement. A consumer would only pay fees if that consumer decides to accept a settlement offer that does not fully pay for attorneys' fees. However, a consumer is not obliged to accept any offer that does not fully pay fees. You will be made aware of how much a settlement offer will net you, and you will always have the option of deciding whether to accept or reject any settlement offer.
+There are no out of pocket attorneys' fees to the consumer for pre-litigation representation. Attorneys' fees are requested from the manufacturer as part of any settlement. A consumer would only pay fees if that consumer decides to accept a settlement offer that does not fully pay for attorneys' fees. However, a consumer is not obliged to accept any offer that does not fully pay fees. You will be made aware of how much a settlement offer will net you, and you will always have the option of deciding whether to accept or reject any settlement offer.
 
-*If there is no recovery obtained on your behalf, then no fees are charged.*  We only get paid if you get paid.
+*If there is no recovery obtained on your behalf and you comply with your representation agreement, then no fees are charged.*  We only get paid if you get paid.
 
 #How much of my time will this take?
 
@@ -38,7 +38,7 @@ If a consumer decides to pursue litigation, our attorneys are knowledgeable and 
 
 #Do I have to pay attorneys’ fees if I pursue litigation?
 
-If a consumer decides to pursue litigation in court and the consumer prevails, a fee petition is filed with the court on behalf of the consumer for payment of attorneys' fees. If the full fees are not awarded, the outstanding fees are paid from the total recovery. If a consumer complies with the representation agreement, but unfortunately does not win his or her case, then no attorneys’ fees will be owed.
+If a consumer decides to pursue litigation in court and the consumer prevails, a fee petition is filed with the court on behalf of the consumer for payment of attorneys' fees. If the full fees are not awarded, the outstanding fees are paid from the total recovery. If a consumer complies with the representation agreement, but unfortunately does not win his or her case, then no attorneys’ fees will be owed in a majority of cases.  The are limited circumstances where a client would be charged attorneys' fees for litigation representation.  Please call us for details.
 
 #What other costs are there in litigation?
 
