@@ -10,7 +10,7 @@ Pryor, Ramirez & Amar, LLC is dedicated to providing the highest quality legal s
 
 With the diligent representation of our experienced attorneys, purchasers saddled with troublesome vehicles i.e. "Lemons" are empowered to obtain recovery from manufacturers/warrantors under the Lemon Law and other applicable warranty laws. Often **such recovery can be obtained out of court with minimal time commitment** (see our [FAQs page](/faqs.html)) and without any costs. After all, you deserve the new car you paid for!
 
-If you purchased a **2008 or newer model year vehicle** and feel that you were saddled with a "Lemon,"  and/or did not get the value you deserve, please review our Lemon Law page and submit your car information for a [FREE CASE REVIEW](/lemon-law-free-case-review.html).*
+If you purchased a **2011 or newer model year vehicle** and feel that you were saddled with a "Lemon,"  and/or did not get the value you deserve, please review our Lemon Law page and submit your car information for a [FREE CASE REVIEW](/lemon-law-free-case-review.html).*
 
 If you have any concerns or questions regarding the Lemon Law claim process and how easy and risk free it will be to you, please contact us for a [FREE CASE REVIEW](/lemon-law-free-case-review.html); you may also click here to visit our [FAQs page](/faqs.html).
 
